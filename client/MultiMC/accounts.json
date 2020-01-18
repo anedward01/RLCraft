@@ -1,0 +1,22 @@
+{
+    "accounts": [
+        {
+            "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI4NjFlNzE0OWRjMWI0M2ZmODdlNzgxNmFiNzM1ZjYzNyIsInlnZ3QiOiI4MTk3YTRkYTk1ZWY0NTlhODBkNDg5NzFiNWJkZjQ1NCIsInNwciI6IjI5MGJkZjE3ZTgwNDQ3OWZiZjM0NzUwYjhhMDc5YTY0IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE1Nzk1MDgzNjYsImlhdCI6MTU3OTMzNTU2Nn0.1aTBxiobvQtt9yr3QZl4PaPNsWLM5sz1hXUE64S0ik4",
+            "activeProfile": "290bdf17e804479fbf34750b8a079a64",
+            "clientToken": "296a207b05944aed92c9fceb433fc83a",
+            "profiles": [
+                {
+                    "id": "290bdf17e804479fbf34750b8a079a64",
+                    "legacy": false,
+                    "name": "HellishElk"
+                }
+            ],
+            "user": {
+                "id": "861e7149dc1b43ff87e7816ab735f637"
+            },
+            "username": "skullportdragons@yahoo.com"
+        }
+    ],
+    "activeAccount": "skullportdragons@yahoo.com",
+    "formatVersion": 2
+}

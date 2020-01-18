@@ -1,0 +1,1779 @@
+    0.016 D <> Log initialized.
+    0.016 D MultiMC 5, (c) 2013-2019 MultiMC Contributors
+    0.017 D Version                    :  "0.6.7-1375"
+    0.017 D Git commit                 :  "c291946d2a8c3e03940da4070533e124283d303c"
+    0.017 D Git refspec                :  "refs/heads/stable"
+    0.017 D Work dir before adjustment :  "C:/WINDOWS/system32"
+    0.017 D Work dir after adjustment  :  "C:/Users/Pottebaum/Documents/MultiMC"
+    0.017 D Adjusted by                :  "Fallback to binary path C:/Users/Pottebaum/Documents/MultiMC"
+    0.017 D Binary path                :  "C:/Users/Pottebaum/Documents/MultiMC"
+    0.017 D Application root path      :  "C:/Users/Pottebaum/Documents/MultiMC"
+    0.017 D <> Paths set.
+    0.046 D Detected default console font: "Courier" , substitutions: ""
+    0.047 D <> Settings loaded.
+    0.055 D Your language is "en"
+    0.055 D <> Translations loaded.
+    0.055 D <> Updater started.
+    0.058 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/icons"
+    0.061 D <> Instance icons intialized.
+    0.074 D <> Icon themes initialized.
+    0.075 D ""
+    0.075 D Loading theme "custom"
+    0.082 D <> Widget themes initialized.
+    0.082 D Instance path              :  "instances"
+    0.082 D Loading Instances...
+    0.082 D Discovering instances in "C:/Users/Pottebaum/Documents/MultiMC/instances"
+    0.084 D Found instance ID "1.12.2"
+    0.084 D Will load group list now.
+    0.088 D Group list loaded.
+    0.092 D Loaded instance  "1.12.2"  from  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2"
+    0.092 D <> Instances loaded.
+    0.092 D Loading accounts...
+    0.097 D <> Accounts loaded.
+    0.102 D <> Cache initialized.
+    0.102 D Detecting proxy settings...
+    0.104 D Using no proxy is an option!
+    0.104 D <> Proxy settings done.
+    0.104 D Downloading Translations Index...
+    0.104 D Task "NetJob(Translations Index)" starting for the first time
+    0.109 D <> Icon theme set.
+    0.109 D <> Application theme set.
+    0.111 D <> Initialized analytics with tid "UA-87731965-2"
+    0.278 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.294 D Task "NetJob(Status JSON)" starting for the first time
+    0.315 D Task "NetJob(Startup player skins download)" starting for the first time
+    0.316 D Reloading news.
+    0.316 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.316 D Checking for updates.
+    0.316 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.316 D Loading the channel list.
+    0.316 D Task "NetJob(Update System Channel List)" starting for the first time
+    0.316 D Task "NetJob(Checking for notifications)" starting for the first time
+    0.365 D Viewport size "694x563"
+    0.366 D RAM size is 8135 MB
+    0.366 D [Analytics] "ScreenView: Main Window"
+    0.366 D <> Main window shown.
+    0.368 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    0.829 D Downloading  "https://status.mojang.com/check"
+    0.830 D Downloading  "https://crafatar.com/skins/290bdf17e804479fbf34750b8a079a64.png"
+    0.830 D Downloading  "http://multimc.org/rss.xml"
+    0.831 D Downloading  "http://files.multimc.org/update/win32/channels.json"
+    0.832 D Downloading  "http://files.multimc.org/notifications.json"
+    0.864 D Dir changed: "C:/Users/Pottebaum/Documents/MultiMC/translations"
+    0.926 D Location header: QUrl("https://files.multimc.org/update/win32/channels.json")
+    0.926 D Following redirect to  "https://files.multimc.org/update/win32/channels.json"
+    0.926 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    0.926 D Download redirected: "https://files.multimc.org/update/win32/channels.json"
+    0.927 D Location header: QUrl("https://multimc.org/rss.xml")
+    0.927 D Following redirect to  "https://multimc.org/rss.xml"
+    0.927 D Downloading  "https://multimc.org/rss.xml"
+    0.927 D Download redirected: "https://multimc.org/rss.xml"
+    0.930 D Location header: QUrl("https://files.multimc.org/notifications.json")
+    0.930 D Following redirect to  "https://files.multimc.org/notifications.json"
+    0.931 D Downloading  "https://files.multimc.org/notifications.json"
+    0.931 D Download redirected: "https://files.multimc.org/notifications.json"
+    1.225 D Download succeeded: "https://files.multimc.org/notifications.json"
+    1.262 D Task "NetJob(Checking for notifications)" succeeded
+    1.273 D Download succeeded: "https://crafatar.com/skins/290bdf17e804479fbf34750b8a079a64.png"
+    1.273 D Task "NetJob(Startup player skins download)" succeeded
+    1.296 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    1.296 D Task "NetJob(Translations Index)" succeeded
+    1.296 D Got translations index!
+    1.297 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+    1.297 D Task "NetJob(Update System Channel List)" succeeded
+    1.297 D Successfully loaded UpdateChecker channel list.
+    1.297 D Checking for updates.
+    1.297 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    1.297 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+    1.298 D Dir changed: "C:/Users/Pottebaum/Documents/MultiMC/translations"
+    1.299 D Dir changed: "C:/Users/Pottebaum/Documents/MultiMC/translations"
+    1.301 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    1.322 D Location header: QUrl("https://files.multimc.org/update/win32/stable/index.json")
+    1.322 D Following redirect to  "https://files.multimc.org/update/win32/stable/index.json"
+    1.322 D Downloading  "https://files.multimc.org/update/win32/stable/index.json"
+    1.323 D Download redirected: "https://files.multimc.org/update/win32/stable/index.json"
+    1.439 D Download succeeded: "https://multimc.org/rss.xml"
+    1.439 D Task "NetJob(News RSS Feed)" succeeded
+    1.439 D Finished loading RSS feed.
+    1.447 D Loaded news entry "Let's Talk About Forge"
+    1.447 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+    1.447 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+    1.448 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+    1.448 D Loaded news entry "0.6.3 - The Big Sync"
+    1.448 D Loaded news entry "0.6.2 Released!"
+    1.449 D Loaded news entry "0.6.1 Released!"
+    1.449 D Loaded news entry "0.6.0 Released!"
+    1.449 D Loaded news entry "Introducing the Archive"
+    1.449 D Loaded news entry "0.5.1 - Bugfixes."
+    1.450 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+    1.450 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    1.450 D Loaded news entry "0.4.10 - Another wifi fix"
+    1.450 D Loaded news entry "0.4.9 - the Windows wifi fix."
+    1.451 D Loaded news entry "0.4.8 - Worlds and more."
+    1.451 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+    1.451 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+    1.451 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+    1.452 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+    1.452 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    1.452 D Loaded news entry "Support us on Patreon!"
+    1.452 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    1.453 D Loaded news entry "Announcing MultiMC 6"
+    1.453 D Loaded news entry "0.3 - The big feature update."
+    1.453 D Loaded news entry "First official MultiMC 5 release!"
+    1.453 D Loaded news entry "MultiMC Status Update"
+    1.453 D News loading succeeded.
+    1.454 D Download succeeded: "https://status.mojang.com/check"
+    1.454 D Task "NetJob(Status JSON)" succeeded
+    1.454 D Finished loading status JSON.
+    1.455 D Status loading succeeded.
+    1.559 D Download succeeded: "https://files.multimc.org/update/win32/stable/index.json"
+    1.560 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    1.560 D Finished downloading repo index. Checking for new versions.
+    1.560 D Processing repository version list.
+    9.394 D Will delete instance "1.12.2"
+    9.933 D Instance "1.12.2" has been deleted by MultiMC.
+    9.943 D Discovering instances in "C:/Users/Pottebaum/Documents/MultiMC/instances"
+    9.943 D Instance "1.12.2" has been invalidated.
+   11.003 D Task "NetJob(Download of meta file net.minecraft/index.json)" starting for the first time
+   11.063 D Downloading  "https://meta.multimc.org/v1/net.minecraft/index.json"
+   11.737 D Download succeeded: "https://meta.multimc.org/v1/net.minecraft/index.json"
+   11.737 D Task "NetJob(Download of meta file net.minecraft/index.json)" succeeded
+   30.108 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=be269f62-9a90-446d-8ea6-bc640e6576fa&t=screenview&ul=en-us&vp=694x563&sr=1920x1080&aip=1&cd=Main Window&an=MultiMC5&av=0.6.7-1375&cd1=1.8.0_221&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=8135&qt=29742"
+   30.253 D [Analytics] "Message sent"
+   60.282 D Task "NetJob(Status JSON)" starting for the first time
+   60.283 D Downloading  "https://status.mojang.com/check"
+   60.453 D Download succeeded: "https://status.mojang.com/check"
+   60.453 D Task "NetJob(Status JSON)" succeeded
+   60.453 D Finished loading status JSON.
+   60.453 D Status loading succeeded.
+  120.286 D Task "NetJob(Status JSON)" starting for the first time
+  120.286 D Downloading  "https://status.mojang.com/check"
+  120.582 D Download succeeded: "https://status.mojang.com/check"
+  120.583 D Task "NetJob(Status JSON)" succeeded
+  120.583 D Finished loading status JSON.
+  120.586 D Status loading succeeded.
+  180.290 D Task "NetJob(Status JSON)" starting for the first time
+  180.290 D Downloading  "https://status.mojang.com/check"
+  180.450 D Download succeeded: "https://status.mojang.com/check"
+  180.450 D Task "NetJob(Status JSON)" succeeded
+  180.451 D Finished loading status JSON.
+  180.451 D Status loading succeeded.
+  240.281 D Task "NetJob(Status JSON)" starting for the first time
+  240.282 D Downloading  "https://status.mojang.com/check"
+  240.598 D Download succeeded: "https://status.mojang.com/check"
+  240.598 D Task "NetJob(Status JSON)" succeeded
+  240.598 D Finished loading status JSON.
+  240.598 D Status loading succeeded.
+  300.278 D Task "NetJob(Status JSON)" starting for the first time
+  300.278 D Downloading  "https://status.mojang.com/check"
+  301.244 D Download succeeded: "https://status.mojang.com/check"
+  301.245 D Task "NetJob(Status JSON)" succeeded
+  301.245 D Finished loading status JSON.
+  301.245 D Status loading succeeded.
+  327.290 D Task "InstanceStaging(0x47975f0)" starting for the first time
+  327.290 D Task "InstanceCreationTask(0x7044300)" starting for the first time
+  327.298 D Component list save performed now for "1.12.2"
+  327.305 D Task "InstanceCreationTask(0x7044300)" succeeded
+  327.307 D Discovering instances in "C:/Users/Pottebaum/Documents/MultiMC/instances"
+  327.307 D Found instance ID "1.12.2"
+  327.308 D Loaded instance  "1.12.2"  from  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2"
+  327.313 D Will save group list now.
+  327.317 D Group list saved.
+  327.317 D Task "InstanceStaging(0x47975f0)" succeeded
+  334.509 D Opening directory "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  339.161 D Task "LaunchController(0x6dc4690)" starting for the first time
+  339.166 D Task "RefreshTask(0x70722c8)" starting for the first time
+  339.539 D Processing authentication response.
+  339.540 D Getting new access token.
+  339.540 D Finished reading refresh response.
+  339.542 D Task "RefreshTask(0x70722c8)" succeeded
+  339.543 D Writing account list to "accounts.json"
+  339.543 D Building JSON data structure.
+  339.543 D Building account array.
+  339.543 D Writing account list to file.
+  339.560 D Saved account list to "accounts.json"
+  339.845 D Task "LaunchTask(0x6dc49b0)" starting for the first time
+  339.845 D Task "TextPrint(0x4727078)" starting for the first time
+  339.845 D Task "TextPrint(0x4727078)" succeeded
+  339.845 D Task "TextPrint(0x47256a8)" starting for the first time
+  339.845 D Task "TextPrint(0x47256a8)" succeeded
+  339.845 D Task "CheckJava(0x6f68c10)" starting for the first time
+  339.846 D Task "CheckJava(0x6f68c10)" succeeded
+  339.846 D Task "ClaimAccount(0x4726668)" starting for the first time
+  339.846 D Writing account list to "accounts.json"
+  339.846 D Building JSON data structure.
+  339.846 D Building account array.
+  339.846 D Writing account list to file.
+  339.847 D Saved account list to "accounts.json"
+  339.847 W Account "skullportdragons@yahoo.com" is now in use.
+  339.847 D Task "ClaimAccount(0x4726668)" succeeded
+  339.847 D Task "Update(0x6f69150)" starting for the first time
+  339.848 D Task "MinecraftUpdate(0x6f691d0)" starting for the first time
+  339.849 D Task "ComponentUpdateTask(0x47728b8)" starting for the first time
+  339.849 D Loading components
+  339.854 D Task "NetJob(Download of meta file index.json)" starting for the first time
+  339.854 D Remote loading is being run for metadata index
+  339.860 D Task "NetJob(Download of meta file net.minecraft/1.12.2.json)" starting for the first time
+  339.861 D Remote loading is being run for "net.minecraft"
+  339.861 D Task "FoldersTask(0x4727a94)" starting for the first time
+  339.861 D Task "FoldersTask(0x4727a94)" succeeded
+  339.869 D Downloading  "https://meta.multimc.org/v1/index.json"
+  339.870 D Downloading  "https://meta.multimc.org/v1/net.minecraft/1.12.2.json"
+  340.201 D Download succeeded: "https://meta.multimc.org/v1/index.json"
+  340.201 D Task "NetJob(Download of meta file index.json)" succeeded
+  340.201 D Remote task 0 succeeded
+  340.530 D Download succeeded: "https://meta.multimc.org/v1/net.minecraft/1.12.2.json"
+  340.530 D Task "NetJob(Download of meta file net.minecraft/1.12.2.json)" succeeded
+  340.531 D Remote task 1 succeeded
+  340.531 D Component list save is scheduled for "1.12.2"
+  340.531 D Resolving dependencies
+  340.531 D "Req: org.lwjgl" Is missing and should be added at 0
+  340.531 D Adding "org.lwjgl" at position 0
+  340.531 D Index is already loaded
+  340.543 D Task "NetJob(Download of meta file org.lwjgl/2.9.4-nightly-20150209.json)" starting for the first time
+  340.543 D Remote loading is being run for "org.lwjgl"
+  340.543 D "Minecraft" is already loaded
+  340.546 D Downloading  "https://meta.multimc.org/v1/org.lwjgl/2.9.4-nightly-20150209.json"
+  340.807 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl/2.9.4-nightly-20150209.json"
+  340.807 D Task "NetJob(Download of meta file org.lwjgl/2.9.4-nightly-20150209.json)" succeeded
+  340.807 D Remote task 0 succeeded
+  340.807 D Resolving dependencies
+  340.807 D "Req: org.lwjgl" Is met.
+  340.807 D Task "ComponentUpdateTask(0x47728b8)" succeeded
+  340.807 D Component list update/resolve task succeeded for "1.12.2"
+  340.807 D Task "LibrariesTask(0x6f6949c)" starting for the first time
+  340.808 D "1.12.2" : downloading libraries
+  340.808 D Applying "org.lwjgl" GOOD
+  340.808 D Applying "net.minecraft" GOOD
+  340.825 D Task "NetJob(Libraries for instance 1.12.2)" starting for the first time
+  340.825 D Task "NetJob(Libraries for instance 1.12.2)" succeeded
+  340.825 D Task "LibrariesTask(0x6f6949c)" succeeded
+  340.825 D Task "FMLLibrariesTask(0x6e5c554)" starting for the first time
+  340.826 D Task "FMLLibrariesTask(0x6e5c554)" succeeded
+  340.826 D Task "AssetUpdateTask(0x6f6929c)" starting for the first time
+  340.827 D Asset index SHA1: "1584b57c1a0b5e593fad1f5b8f78536ca640547b"
+  340.827 D "1.12.2" : Starting asset index download
+  340.827 D Task "NetJob(Asset index for 1.12.2)" starting for the first time
+  340.828 D Downloading  "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  341.008 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  341.008 D Task "NetJob(Asset index for 1.12.2)" succeeded
+  341.008 D "1.12.2" : Finished asset index download
+  341.215 D Task "AssetUpdateTask(0x6f6929c)" succeeded
+  341.215 D Task "MinecraftUpdate(0x6f691d0)" succeeded
+  341.215 D Task "Update(0x6f69150)" succeeded
+  341.217 D Task "ModMinecraftJar(0x47724f8)" starting for the first time
+  341.217 D Task "ModMinecraftJar(0x47724f8)" succeeded
+  341.218 D Task "ScanModFolders(0x47729a8)" starting for the first time
+  341.219 W QCoreApplication::postEvent: Unexpected null receiver
+  341.220 D Task "ScanModFolders(0x47729a8)" succeeded
+  341.220 D Task "PrintInstanceInfo(0x4726b70)" starting for the first time
+  341.227 D Task "PrintInstanceInfo(0x4726b70)" succeeded
+  341.227 D Task "CreateServerResourcePacksFolder(0x4772528)" starting for the first time
+  341.228 D Task "CreateServerResourcePacksFolder(0x4772528)" succeeded
+  341.228 D Task "ExtractNatives(0x4772738)" starting for the first time
+  341.518 D Task "ExtractNatives(0x4772738)" succeeded
+  341.518 D Task "ReconstructAssets(0x47724c8)" starting for the first time
+  341.519 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+  341.525 D Task "ReconstructAssets(0x47724c8)" succeeded
+  341.525 D Task "LauncherPartLaunch(0x6d632a8)" starting for the first time
+  341.532 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m -Duser.language=en -Djava.library.path=C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/natives -cp C:/Users/Pottebaum/Documents/MultiMC/jars/NewLaunch.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+  345.794 D Component list save performed now for "1.12.2"
+  360.284 D Task "NetJob(Status JSON)" starting for the first time
+  360.284 D Downloading  "https://status.mojang.com/check"
+  360.588 D Download succeeded: "https://status.mojang.com/check"
+  360.588 D Task "NetJob(Status JSON)" succeeded
+  360.588 D Finished loading status JSON.
+  360.588 D Status loading succeeded.
+  364.978 D Task "LauncherPartLaunch(0x6d632a8)" succeeded
+  364.981 D Writing account list to "accounts.json"
+  364.981 D Building JSON data structure.
+  364.981 D Building account array.
+  364.981 D Writing account list to file.
+  364.986 D Saved account list to "accounts.json"
+  364.986 W Account "skullportdragons@yahoo.com" is no longer in use.
+  364.997 D Task "LaunchTask(0x6dc49b0)" succeeded
+  364.997 D Task "LaunchController(0x6dc4690)" succeeded
+  370.062 D Task "LaunchController(0x47b30d0)" starting for the first time
+  370.064 D Task "RefreshTask(0x6ecb358)" starting for the first time
+  370.193 D Processing authentication response.
+  370.193 D Getting new access token.
+  370.194 D Finished reading refresh response.
+  370.196 D Task "RefreshTask(0x6ecb358)" succeeded
+  370.196 D Writing account list to "accounts.json"
+  370.197 D Building JSON data structure.
+  370.197 D Building account array.
+  370.197 D Writing account list to file.
+  370.211 D Saved account list to "accounts.json"
+  370.384 D Task "LaunchTask(0x47b3120)" starting for the first time
+  370.384 D Task "TextPrint(0x6f4acf0)" starting for the first time
+  370.385 D Task "TextPrint(0x6f4acf0)" succeeded
+  370.385 D Task "TextPrint(0x6f4ab68)" starting for the first time
+  370.385 D Task "TextPrint(0x6f4ab68)" succeeded
+  370.385 D Task "CheckJava(0x4833fd0)" starting for the first time
+  370.385 D Task "CheckJava(0x4833fd0)" succeeded
+  370.385 D Task "ClaimAccount(0x6f4ad60)" starting for the first time
+  370.386 D Writing account list to "accounts.json"
+  370.386 D Building JSON data structure.
+  370.386 D Building account array.
+  370.386 D Writing account list to file.
+  370.387 D Saved account list to "accounts.json"
+  370.387 W Account "skullportdragons@yahoo.com" is now in use.
+  370.387 D Task "ClaimAccount(0x6f4ad60)" succeeded
+  370.387 D Task "Update(0x4834310)" starting for the first time
+  370.388 D Task "MinecraftUpdate(0x4834750)" starting for the first time
+  370.388 D Task "ComponentUpdateTask(0x6d87638)" starting for the first time
+  370.388 D Loading components
+  370.388 D Index is already loaded
+  370.388 D Component list save is scheduled for "1.12.2"
+  370.388 D Resolving dependencies
+  370.388 D "Req: org.lwjgl" Is met.
+  370.388 D Task "ComponentUpdateTask(0x6d87638)" succeeded
+  370.388 D Component list update/resolve task succeeded for "1.12.2"
+  370.388 D Task "FoldersTask(0x47d54b4)" starting for the first time
+  370.388 D Task "FoldersTask(0x47d54b4)" succeeded
+  370.388 D Task "LibrariesTask(0x483469c)" starting for the first time
+  370.388 D "1.12.2" : downloading libraries
+  370.388 D Applying "org.lwjgl" GOOD
+  370.389 D Applying "net.minecraft" GOOD
+  370.393 D Task "NetJob(Libraries for instance 1.12.2)" starting for the first time
+  370.400 D Task "NetJob(Libraries for instance 1.12.2)" succeeded
+  370.400 D Task "LibrariesTask(0x483469c)" succeeded
+  370.400 D Task "FMLLibrariesTask(0x6e5a61c)" starting for the first time
+  370.400 D Task "FMLLibrariesTask(0x6e5a61c)" succeeded
+  370.400 D Task "AssetUpdateTask(0x48346dc)" starting for the first time
+  370.401 D Asset index SHA1: "1584b57c1a0b5e593fad1f5b8f78536ca640547b"
+  370.401 D "1.12.2" : Starting asset index download
+  370.401 D Task "NetJob(Asset index for 1.12.2)" starting for the first time
+  370.410 D Downloading  "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  370.423 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  370.423 D Task "NetJob(Asset index for 1.12.2)" succeeded
+  370.423 D "1.12.2" : Finished asset index download
+  370.473 D Task "AssetUpdateTask(0x48346dc)" succeeded
+  370.473 D Task "MinecraftUpdate(0x4834750)" succeeded
+  370.473 D Task "Update(0x4834310)" succeeded
+  370.476 D Task "ModMinecraftJar(0x4780220)" starting for the first time
+  370.476 D Task "ModMinecraftJar(0x4780220)" succeeded
+  370.476 D Task "ScanModFolders(0x478f458)" starting for the first time
+  370.476 W QCoreApplication::postEvent: Unexpected null receiver
+  370.478 C Task "ScanModFolders(0x47729a8)" succeeded while not running!!!!
+  370.478 C Task "ScanModFolders(0x47729a8)" succeeded while not running!!!!
+  370.478 D Task "ScanModFolders(0x478f458)" succeeded
+  370.478 D Task "PrintInstanceInfo(0x705a810)" starting for the first time
+  370.486 D Task "PrintInstanceInfo(0x705a810)" succeeded
+  370.486 D Task "CreateServerResourcePacksFolder(0x478d090)" starting for the first time
+  370.486 D Task "CreateServerResourcePacksFolder(0x478d090)" succeeded
+  370.486 D Task "ExtractNatives(0x4789568)" starting for the first time
+  370.727 D Task "ExtractNatives(0x4789568)" succeeded
+  370.727 D Task "ReconstructAssets(0x4776120)" starting for the first time
+  370.728 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+  370.733 D Task "ReconstructAssets(0x4776120)" succeeded
+  370.733 D Task "LauncherPartLaunch(0x4853f90)" starting for the first time
+  370.740 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m -Duser.language=en -Djava.library.path=C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/natives -cp C:/Users/Pottebaum/Documents/MultiMC/jars/NewLaunch.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+  375.389 D Component list save performed now for "1.12.2"
+  381.516 D Task "LauncherPartLaunch(0x4853f90)" succeeded
+  381.519 D Writing account list to "accounts.json"
+  381.520 D Building JSON data structure.
+  381.520 D Building account array.
+  381.520 D Writing account list to file.
+  381.521 D Saved account list to "accounts.json"
+  381.521 W Account "skullportdragons@yahoo.com" is no longer in use.
+  381.532 D Task "LaunchTask(0x47b3120)" succeeded
+  381.532 D Task "LaunchController(0x47b30d0)" succeeded
+  383.335 D Task "LaunchController(0x4781160)" starting for the first time
+  383.337 D Task "RefreshTask(0x6ecccd8)" starting for the first time
+  383.443 D Processing authentication response.
+  383.443 D Getting new access token.
+  383.444 D Finished reading refresh response.
+  383.445 D Task "RefreshTask(0x6ecccd8)" succeeded
+  383.446 D Writing account list to "accounts.json"
+  383.446 D Building JSON data structure.
+  383.446 D Building account array.
+  383.447 D Writing account list to file.
+  383.461 D Saved account list to "accounts.json"
+  383.630 D Task "LaunchTask(0x6ddbcd8)" starting for the first time
+  383.631 D Task "TextPrint(0x4727c48)" starting for the first time
+  383.631 D Task "TextPrint(0x4727c48)" succeeded
+  383.631 D Task "TextPrint(0x32f2368)" starting for the first time
+  383.631 D Task "TextPrint(0x32f2368)" succeeded
+  383.631 D Task "CheckJava(0x4834d10)" starting for the first time
+  383.631 D Task "CheckJava(0x4834d10)" succeeded
+  383.631 D Task "ClaimAccount(0x32f2598)" starting for the first time
+  383.632 D Writing account list to "accounts.json"
+  383.632 D Building JSON data structure.
+  383.632 D Building account array.
+  383.632 D Writing account list to file.
+  383.633 D Saved account list to "accounts.json"
+  383.633 W Account "skullportdragons@yahoo.com" is now in use.
+  383.633 D Task "ClaimAccount(0x32f2598)" succeeded
+  383.633 D Task "Update(0x4834d50)" starting for the first time
+  383.634 D Task "MinecraftUpdate(0x4834b10)" starting for the first time
+  383.634 D Task "ComponentUpdateTask(0x4770f98)" starting for the first time
+  383.634 D Loading components
+  383.634 D Index is already loaded
+  383.634 D Component list save is scheduled for "1.12.2"
+  383.634 D Resolving dependencies
+  383.634 D "Req: org.lwjgl" Is met.
+  383.634 D Task "ComponentUpdateTask(0x4770f98)" succeeded
+  383.634 D Component list update/resolve task succeeded for "1.12.2"
+  383.634 D Task "FoldersTask(0x4725564)" starting for the first time
+  383.635 D Task "FoldersTask(0x4725564)" succeeded
+  383.635 D Task "LibrariesTask(0x4834e9c)" starting for the first time
+  383.635 D "1.12.2" : downloading libraries
+  383.635 D Applying "org.lwjgl" GOOD
+  383.635 D Applying "net.minecraft" GOOD
+  383.639 D Task "NetJob(Libraries for instance 1.12.2)" starting for the first time
+  383.646 D Task "NetJob(Libraries for instance 1.12.2)" succeeded
+  383.646 D Task "LibrariesTask(0x4834e9c)" succeeded
+  383.646 D Task "FMLLibrariesTask(0x7041b1c)" starting for the first time
+  383.646 D Task "FMLLibrariesTask(0x7041b1c)" succeeded
+  383.646 D Task "AssetUpdateTask(0x483481c)" starting for the first time
+  383.647 D Asset index SHA1: "1584b57c1a0b5e593fad1f5b8f78536ca640547b"
+  383.647 D "1.12.2" : Starting asset index download
+  383.647 D Task "NetJob(Asset index for 1.12.2)" starting for the first time
+  383.656 D Downloading  "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  383.672 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  383.672 D Task "NetJob(Asset index for 1.12.2)" succeeded
+  383.672 D "1.12.2" : Finished asset index download
+  383.722 D Task "AssetUpdateTask(0x483481c)" succeeded
+  383.722 D Task "MinecraftUpdate(0x4834b10)" succeeded
+  383.722 D Task "Update(0x4834d50)" succeeded
+  383.724 D Task "ModMinecraftJar(0x4772648)" starting for the first time
+  383.724 D Task "ModMinecraftJar(0x4772648)" succeeded
+  383.724 D Task "ScanModFolders(0x4772738)" starting for the first time
+  383.724 W QCoreApplication::postEvent: Unexpected null receiver
+  383.726 C Task "ScanModFolders(0x478f458)" succeeded while not running!!!!
+  383.726 C Task "ScanModFolders(0x478f458)" succeeded while not running!!!!
+  383.726 D Task "ScanModFolders(0x4772738)" succeeded
+  383.726 D Task "PrintInstanceInfo(0x32f2800)" starting for the first time
+  383.733 D Task "PrintInstanceInfo(0x32f2800)" succeeded
+  383.733 D Task "CreateServerResourcePacksFolder(0x4770cf8)" starting for the first time
+  383.734 D Task "CreateServerResourcePacksFolder(0x4770cf8)" succeeded
+  383.734 D Task "ExtractNatives(0x4770ff8)" starting for the first time
+  383.970 D Task "ExtractNatives(0x4770ff8)" succeeded
+  383.971 D Task "ReconstructAssets(0x4770e18)" starting for the first time
+  383.971 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+  383.976 D Task "ReconstructAssets(0x4770e18)" succeeded
+  383.976 D Task "LauncherPartLaunch(0x4853ff0)" starting for the first time
+  383.983 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m -Duser.language=en -Djava.library.path=C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/natives -cp C:/Users/Pottebaum/Documents/MultiMC/jars/NewLaunch.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+  384.031 W QMetaObject::connectSlotsByName: No matching signal for on_actionDownload_triggered()
+  384.031 D Component list save performed now for "1.12.2"
+  384.035 D Task "ComponentUpdateTask(0x334f198)" starting for the first time
+  384.035 D Loading components
+  384.035 D Index is already loaded
+  384.035 D Component list save is scheduled for "1.12.2"
+  384.035 D Resolving dependencies
+  384.035 D "Req: org.lwjgl" Is met.
+  384.035 D Task "ComponentUpdateTask(0x334f198)" succeeded
+  384.035 D Component list update/resolve task succeeded for "1.12.2"
+  384.041 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  384.043 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  384.045 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  384.047 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  384.050 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  384.067 D Applying "org.lwjgl" GOOD
+  384.067 D Applying "net.minecraft" GOOD
+  384.228 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  384.234 C Task "ScanModFolders(0x4772738)" succeeded while not running!!!!
+  384.415 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  384.922 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  384.923 C Task "ScanModFolders(0x4772738)" succeeded while not running!!!!
+  389.031 D Component list save performed now for "1.12.2"
+  395.186 D Task "LauncherPartLaunch(0x4853ff0)" succeeded
+  395.189 D Writing account list to "accounts.json"
+  395.189 D Building JSON data structure.
+  395.189 D Building account array.
+  395.189 D Writing account list to file.
+  395.190 D Saved account list to "accounts.json"
+  395.190 W Account "skullportdragons@yahoo.com" is no longer in use.
+  395.207 D Task "NetJob(Download of meta file org.lwjgl/index.json)" starting for the first time
+  395.208 D Task "LaunchTask(0x6ddbcd8)" succeeded
+  395.208 D Task "LaunchController(0x4781160)" succeeded
+  395.210 D Downloading  "https://meta.multimc.org/v1/org.lwjgl/index.json"
+  395.349 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl/index.json"
+  395.349 D Task "NetJob(Download of meta file org.lwjgl/index.json)" succeeded
+  399.500 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  400.700 D Task "NetJob(Download of meta file net.minecraftforge/index.json)" starting for the first time
+  400.726 D Downloading  "https://meta.multimc.org/v1/net.minecraftforge/index.json"
+  401.573 D Download succeeded: "https://meta.multimc.org/v1/net.minecraftforge/index.json"
+  401.573 D Task "NetJob(Download of meta file net.minecraftforge/index.json)" succeeded
+  406.459 D Component list save is scheduled for "1.12.2"
+  406.459 D Task "ComponentUpdateTask(0x7b9fa88)" starting for the first time
+  406.459 D Loading components
+  406.459 D Index is already loaded
+  406.459 D "LWJGL 2" is already loaded
+  406.459 D "Minecraft" is already loaded
+  406.459 D Task "NetJob(Download of meta file net.minecraftforge/14.23.5.2847.json)" starting for the first time
+  406.459 D Remote loading is being run for "net.minecraftforge"
+  406.463 D Downloading  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2847.json"
+  406.645 D Download succeeded: "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2847.json"
+  406.646 D Task "NetJob(Download of meta file net.minecraftforge/14.23.5.2847.json)" succeeded
+  406.646 D Remote task 0 succeeded
+  406.649 D Resolving dependencies
+  406.649 D "Req: net.minecraft == 1.12.2" Is met.
+  406.649 D "Req: org.lwjgl" Is met.
+  406.649 D Task "ComponentUpdateTask(0x7b9fa88)" succeeded
+  406.649 D Component list update/resolve task succeeded for "1.12.2"
+  408.840 D Task "LaunchController(0x7093080)" starting for the first time
+  408.841 D Task "RefreshTask(0x7f34850)" starting for the first time
+  408.936 D Processing authentication response.
+  408.936 D Getting new access token.
+  408.936 D Finished reading refresh response.
+  408.939 D Task "RefreshTask(0x7f34850)" succeeded
+  408.939 D Writing account list to "accounts.json"
+  408.939 D Building JSON data structure.
+  408.940 D Building account array.
+  408.940 D Writing account list to file.
+  408.977 D Saved account list to "accounts.json"
+  409.169 D Applying "org.lwjgl" GOOD
+  409.170 D Applying "net.minecraft" GOOD
+  409.170 D Applying "net.minecraftforge" GOOD
+  409.180 D Task "LaunchTask(0x7093670)" starting for the first time
+  409.180 D Task "TextPrint(0x7f05708)" starting for the first time
+  409.180 D Task "TextPrint(0x7f05708)" succeeded
+  409.180 D Task "TextPrint(0x7f04240)" starting for the first time
+  409.181 D Task "TextPrint(0x7f04240)" succeeded
+  409.181 D Task "CheckJava(0x7a335c0)" starting for the first time
+  409.182 D Task "CheckJava(0x7a335c0)" succeeded
+  409.182 D Task "ClaimAccount(0x7f04eb8)" starting for the first time
+  409.182 D Writing account list to "accounts.json"
+  409.182 D Building JSON data structure.
+  409.182 D Building account array.
+  409.182 D Writing account list to file.
+  409.183 D Saved account list to "accounts.json"
+  409.183 W Account "skullportdragons@yahoo.com" is now in use.
+  409.183 D Task "ClaimAccount(0x7f04eb8)" succeeded
+  409.184 D Task "Update(0x7a33400)" starting for the first time
+  409.184 D Task "MinecraftUpdate(0x7a331c0)" starting for the first time
+  409.184 D Component list save performed now for "1.12.2"
+  409.191 D Task "ComponentUpdateTask(0x7ba0058)" starting for the first time
+  409.192 D Loading components
+  409.192 D Index is already loaded
+  409.192 D Component list save is scheduled for "1.12.2"
+  409.192 D Resolving dependencies
+  409.192 D "Req: net.minecraft == 1.12.2" Is met.
+  409.192 D "Req: org.lwjgl" Is met.
+  409.192 D Task "ComponentUpdateTask(0x7ba0058)" succeeded
+  409.192 D Component list update/resolve task succeeded for "1.12.2"
+  409.192 D Task "FoldersTask(0x7f06124)" starting for the first time
+  409.192 D Task "FoldersTask(0x7f06124)" succeeded
+  409.192 D Task "LibrariesTask(0x7a3314c)" starting for the first time
+  409.192 D "1.12.2" : downloading libraries
+  409.192 D Applying "org.lwjgl" GOOD
+  409.192 D Applying "net.minecraft" GOOD
+  409.192 D Applying "net.minecraftforge" GOOD
+  409.196 D Download for: "net.minecraftforge:forge:1.12.2-14.23.5.2847:universal" storage: "net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar" url: "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
+  409.205 D Task "NetJob(Libraries for instance 1.12.2)" starting for the first time
+  409.218 D Downloading  "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
+  414.189 D Component list save performed now for "1.12.2"
+  418.110 D Download succeeded: "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
+  418.110 D Task "NetJob(Libraries for instance 1.12.2)" succeeded
+  418.110 D Task "LibrariesTask(0x7a3314c)" succeeded
+  418.111 D Task "FMLLibrariesTask(0x7e08eb4)" starting for the first time
+  418.111 D Task "FMLLibrariesTask(0x7e08eb4)" succeeded
+  418.111 D Task "AssetUpdateTask(0x7a3344c)" starting for the first time
+  418.111 D Asset index SHA1: "1584b57c1a0b5e593fad1f5b8f78536ca640547b"
+  418.112 D "1.12.2" : Starting asset index download
+  418.112 D Task "NetJob(Asset index for 1.12.2)" starting for the first time
+  418.113 D Downloading  "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  418.135 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  418.135 D Task "NetJob(Asset index for 1.12.2)" succeeded
+  418.135 D "1.12.2" : Finished asset index download
+  418.186 D Task "AssetUpdateTask(0x7a3344c)" succeeded
+  418.186 D Task "MinecraftUpdate(0x7a331c0)" succeeded
+  418.186 D Task "Update(0x7a33400)" succeeded
+  418.188 D Task "ModMinecraftJar(0x7b9fa88)" starting for the first time
+  418.188 D Task "ModMinecraftJar(0x7b9fa88)" succeeded
+  418.188 D Task "ScanModFolders(0x7b9f7e8)" starting for the first time
+  418.188 W QCoreApplication::postEvent: Unexpected null receiver
+  418.190 C Task "ScanModFolders(0x4772738)" succeeded while not running!!!!
+  418.199 D Task "ScanModFolders(0x7b9f7e8)" succeeded
+  418.199 D Task "PrintInstanceInfo(0x7f04c88)" starting for the first time
+  418.233 D Task "PrintInstanceInfo(0x7f04c88)" succeeded
+  418.233 D Task "CreateServerResourcePacksFolder(0x7b9fb18)" starting for the first time
+  418.234 D Task "CreateServerResourcePacksFolder(0x7b9fb18)" succeeded
+  418.234 D Task "ExtractNatives(0x7b9fbd8)" starting for the first time
+  418.479 D Task "ExtractNatives(0x7b9fbd8)" succeeded
+  418.479 D Task "ReconstructAssets(0x7b9fc38)" starting for the first time
+  418.479 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+  418.484 D Task "ReconstructAssets(0x7b9fc38)" succeeded
+  418.484 D Task "LauncherPartLaunch(0x48531b0)" starting for the first time
+  418.492 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m -Duser.language=en -Djava.library.path=C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/natives -cp C:/Users/Pottebaum/Documents/MultiMC/jars/NewLaunch.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+  420.288 D Task "NetJob(Status JSON)" starting for the first time
+  420.288 D Downloading  "https://status.mojang.com/check"
+  420.565 D Download succeeded: "https://status.mojang.com/check"
+  420.565 D Task "NetJob(Status JSON)" succeeded
+  420.565 D Finished loading status JSON.
+  420.565 D Status loading succeeded.
+  439.095 D Task "LauncherPartLaunch(0x48531b0)" succeeded
+  439.098 D Writing account list to "accounts.json"
+  439.098 D Building JSON data structure.
+  439.098 D Building account array.
+  439.098 D Writing account list to file.
+  439.099 D Saved account list to "accounts.json"
+  439.099 W Account "skullportdragons@yahoo.com" is no longer in use.
+  439.113 D Task "LaunchTask(0x7093670)" succeeded
+  439.113 D Task "LaunchController(0x7093080)" succeeded
+  441.495 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  441.499 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  480.288 D Task "NetJob(Status JSON)" starting for the first time
+  480.288 D Downloading  "https://status.mojang.com/check"
+  480.515 D Download succeeded: "https://status.mojang.com/check"
+  480.515 D Task "NetJob(Status JSON)" succeeded
+  480.515 D Finished loading status JSON.
+  480.516 D Status loading succeeded.
+  508.621 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.682 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.704 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.727 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.749 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.780 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.855 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.879 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.904 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.931 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  508.972 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.003 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.032 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.052 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.089 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.125 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.159 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.278 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.306 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.337 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.497 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.528 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.558 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.668 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.704 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.742 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.768 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.796 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.879 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.935 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.967 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  509.996 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.026 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.056 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.086 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.127 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.156 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.303 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.350 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.391 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.436 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.511 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.525 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.588 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.622 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.651 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.668 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.706 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.818 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.865 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.880 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.962 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  510.980 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.162 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.228 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.259 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.297 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.400 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.490 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.542 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.559 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.593 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.609 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.750 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.801 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  511.870 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  512.715 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  512.778 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  512.827 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  512.862 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  512.879 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  512.934 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  512.952 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.003 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.037 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.055 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.108 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.142 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.161 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.195 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.586 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.674 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.701 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.737 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.803 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.823 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.966 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  513.988 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.029 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.096 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.196 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.287 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.324 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.409 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.429 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.532 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.554 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.593 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.616 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.776 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.835 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.976 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  514.999 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  515.060 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  515.110 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  515.148 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  515.171 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  515.209 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  515.269 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  528.960 D Task "LaunchController(0x7d1b180)" starting for the first time
+  528.961 D Task "RefreshTask(0x70dcfa8)" starting for the first time
+  529.202 D Processing authentication response.
+  529.202 D Getting new access token.
+  529.202 D Finished reading refresh response.
+  529.204 D Task "RefreshTask(0x70dcfa8)" succeeded
+  529.205 D Writing account list to "accounts.json"
+  529.205 D Building JSON data structure.
+  529.205 D Building account array.
+  529.205 D Writing account list to file.
+  529.219 D Saved account list to "accounts.json"
+  529.566 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  529.597 D Task "LaunchTask(0x7d1b310)" starting for the first time
+  529.597 D Task "TextPrint(0x7c6cf18)" starting for the first time
+  529.601 D Task "TextPrint(0x7c6cf18)" succeeded
+  529.601 D Task "TextPrint(0x334b400)" starting for the first time
+  529.607 D Task "TextPrint(0x334b400)" succeeded
+  529.607 D Task "CheckJava(0x7d01b38)" starting for the first time
+  529.611 D Task "CheckJava(0x7d01b38)" succeeded
+  529.611 D Task "ClaimAccount(0x4802cb8)" starting for the first time
+  529.611 D Writing account list to "accounts.json"
+  529.611 D Building JSON data structure.
+  529.611 D Building account array.
+  529.611 D Writing account list to file.
+  529.616 D Saved account list to "accounts.json"
+  529.616 W Account "skullportdragons@yahoo.com" is now in use.
+  529.616 D Task "ClaimAccount(0x4802cb8)" succeeded
+  529.616 D Task "Update(0x7d018b8)" starting for the first time
+  529.617 D Task "MinecraftUpdate(0x7d01e38)" starting for the first time
+  529.617 D Task "ComponentUpdateTask(0x7c6d6a8)" starting for the first time
+  529.617 D Loading components
+  529.617 D Index is already loaded
+  529.618 D Component list save is scheduled for "1.12.2"
+  529.618 D Resolving dependencies
+  529.618 D "Req: net.minecraft == 1.12.2" Is met.
+  529.618 D "Req: org.lwjgl" Is met.
+  529.618 D Task "ComponentUpdateTask(0x7c6d6a8)" succeeded
+  529.618 D Component list update/resolve task succeeded for "1.12.2"
+  529.618 D Task "FoldersTask(0x7b7debc)" starting for the first time
+  529.618 D Task "FoldersTask(0x7b7debc)" succeeded
+  529.618 D Task "LibrariesTask(0x7d01c84)" starting for the first time
+  529.618 D "1.12.2" : downloading libraries
+  529.618 D Applying "org.lwjgl" GOOD
+  529.618 D Applying "net.minecraft" GOOD
+  529.618 D Applying "net.minecraftforge" GOOD
+  529.625 D Task "NetJob(Libraries for instance 1.12.2)" starting for the first time
+  529.645 D Task "NetJob(Libraries for instance 1.12.2)" succeeded
+  529.645 D Task "LibrariesTask(0x7d01c84)" succeeded
+  529.645 D Task "FMLLibrariesTask(0x48090bc)" starting for the first time
+  529.645 D Task "FMLLibrariesTask(0x48090bc)" succeeded
+  529.645 D Task "AssetUpdateTask(0x7d01ec4)" starting for the first time
+  529.648 D Asset index SHA1: "1584b57c1a0b5e593fad1f5b8f78536ca640547b"
+  529.648 D "1.12.2" : Starting asset index download
+  529.648 D Task "NetJob(Asset index for 1.12.2)" starting for the first time
+  529.678 D Downloading  "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  529.735 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  529.735 D Task "NetJob(Asset index for 1.12.2)" succeeded
+  529.735 D "1.12.2" : Finished asset index download
+  529.787 D Task "AssetUpdateTask(0x7d01ec4)" succeeded
+  529.787 D Task "MinecraftUpdate(0x7d01e38)" succeeded
+  529.787 D Task "Update(0x7d018b8)" succeeded
+  529.789 D Task "ModMinecraftJar(0x7c6d588)" starting for the first time
+  529.789 D Task "ModMinecraftJar(0x7c6d588)" succeeded
+  529.789 D Task "ScanModFolders(0x7c6d0a8)" starting for the first time
+  529.789 W QCoreApplication::postEvent: Unexpected null receiver
+  529.791 C Task "ScanModFolders(0x7b9f7e8)" succeeded while not running!!!!
+  529.807 D Task "ScanModFolders(0x7c6d0a8)" succeeded
+  529.808 D Task "PrintInstanceInfo(0x7c6c310)" starting for the first time
+  529.868 D Task "PrintInstanceInfo(0x7c6c310)" succeeded
+  529.868 D Task "CreateServerResourcePacksFolder(0x7c6d2b8)" starting for the first time
+  529.869 D Task "CreateServerResourcePacksFolder(0x7c6d2b8)" succeeded
+  529.869 D Task "ExtractNatives(0x7c6d108)" starting for the first time
+  530.108 D Task "ExtractNatives(0x7c6d108)" succeeded
+  530.108 D Task "ReconstructAssets(0x7c6d198)" starting for the first time
+  530.108 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+  530.114 D Task "ReconstructAssets(0x7c6d198)" succeeded
+  530.114 D Task "LauncherPartLaunch(0x339cd50)" starting for the first time
+  530.122 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m -Duser.language=en -Djava.library.path=C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/natives -cp C:/Users/Pottebaum/Documents/MultiMC/jars/NewLaunch.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+  534.610 D Component list save performed now for "1.12.2"
+  540.282 D Task "NetJob(Status JSON)" starting for the first time
+  540.282 D Downloading  "https://status.mojang.com/check"
+  540.434 D Download succeeded: "https://status.mojang.com/check"
+  540.434 D Task "NetJob(Status JSON)" succeeded
+  540.434 D Finished loading status JSON.
+  540.434 D Status loading succeeded.
+  575.066 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  575.090 C Task "ScanModFolders(0x7c6d0a8)" succeeded while not running!!!!
+  575.466 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  575.484 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/resourcepacks"
+  575.954 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/resourcepacks"
+  576.404 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/saves"
+  576.827 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/saves"
+  576.829 C Exception: "Unable to open C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/servers.dat for reading: No such file or directory"
+  576.900 W Will watch "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  577.292 W Will stop watching "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  580.430 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  580.462 C Task "ScanModFolders(0x7c6d0a8)" succeeded while not running!!!!
+  581.211 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  581.224 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/resourcepacks"
+  581.769 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/resourcepacks"
+  582.266 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/saves"
+  583.082 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/saves"
+  583.083 W Will watch "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  583.538 W Will stop watching "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  600.279 D Task "NetJob(Status JSON)" starting for the first time
+  600.279 D Downloading  "https://status.mojang.com/check"
+  600.504 D Download succeeded: "https://status.mojang.com/check"
+  600.504 D Task "NetJob(Status JSON)" succeeded
+  600.504 D Finished loading status JSON.
+  600.504 D Status loading succeeded.
+  603.386 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  603.399 C Task "ScanModFolders(0x7c6d0a8)" succeeded while not running!!!!
+  604.106 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/mods"
+  604.117 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/resourcepacks"
+  604.830 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/resourcepacks"
+  605.539 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/saves"
+  606.302 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/saves"
+  606.303 W Will watch "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  606.804 W Will stop watching "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  607.498 W Will watch "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  608.189 W Will stop watching "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft"
+  608.191 D Started watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/saves"
+  609.174 D Stopped watching  "C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/.minecraft/saves"
+  618.968 C Task "LauncherPartLaunch(0x339cd50)" failed:  "Game crashed."
+  618.971 D Writing account list to "accounts.json"
+  618.971 D Building JSON data structure.
+  618.971 D Building account array.
+  618.971 D Writing account list to file.
+  618.976 D Saved account list to "accounts.json"
+  618.976 W Account "skullportdragons@yahoo.com" is no longer in use.
+  619.024 C Task "LaunchTask(0x7d1b310)" failed:  "Game crashed."
+  619.027 C Task "LaunchController(0x7d1b180)" failed:  "Game crashed."
+  629.812 D Task "LaunchController(0x7d1b680)" starting for the first time
+  629.813 D Task "RefreshTask(0x80e9f50)" starting for the first time
+  629.959 D Processing authentication response.
+  629.959 D Getting new access token.
+  629.959 D Finished reading refresh response.
+  629.961 D Task "RefreshTask(0x80e9f50)" succeeded
+  629.962 D Writing account list to "accounts.json"
+  629.962 D Building JSON data structure.
+  629.962 D Building account array.
+  629.963 D Writing account list to file.
+  629.977 D Saved account list to "accounts.json"
+  630.215 D Task "LaunchTask(0x7d1ba40)" starting for the first time
+  630.218 D Task "TextPrint(0x47e5278)" starting for the first time
+  630.219 D Task "TextPrint(0x47e5278)" succeeded
+  630.219 D Task "TextPrint(0x47e4be8)" starting for the first time
+  630.219 D Task "TextPrint(0x47e4be8)" succeeded
+  630.219 D Task "CheckJava(0x8118ca0)" starting for the first time
+  630.221 D Task "CheckJava(0x8118ca0)" succeeded
+  630.221 D Task "ClaimAccount(0x47e4e18)" starting for the first time
+  630.221 D Writing account list to "accounts.json"
+  630.221 D Building JSON data structure.
+  630.221 D Building account array.
+  630.221 D Writing account list to file.
+  630.222 D Saved account list to "accounts.json"
+  630.223 W Account "skullportdragons@yahoo.com" is now in use.
+  630.223 D Task "ClaimAccount(0x47e4e18)" succeeded
+  630.223 D Task "Update(0x8118d20)" starting for the first time
+  630.224 D Task "MinecraftUpdate(0x8118aa0)" starting for the first time
+  630.224 D Task "ComponentUpdateTask(0x7040880)" starting for the first time
+  630.224 D Loading components
+  630.224 D Index is already loaded
+  630.224 D Component list save is scheduled for "1.12.2"
+  630.224 D Resolving dependencies
+  630.224 D "Req: net.minecraft == 1.12.2" Is met.
+  630.224 D "Req: org.lwjgl" Is met.
+  630.224 D Task "ComponentUpdateTask(0x7040880)" succeeded
+  630.224 D Component list update/resolve task succeeded for "1.12.2"
+  630.224 D Task "FoldersTask(0x47e379c)" starting for the first time
+  630.224 D Task "FoldersTask(0x47e379c)" succeeded
+  630.225 D Task "LibrariesTask(0x81190ac)" starting for the first time
+  630.225 D "1.12.2" : downloading libraries
+  630.225 D Applying "org.lwjgl" GOOD
+  630.225 D Applying "net.minecraft" GOOD
+  630.225 D Applying "net.minecraftforge" GOOD
+  630.230 D Task "NetJob(Libraries for instance 1.12.2)" starting for the first time
+  630.255 D Task "NetJob(Libraries for instance 1.12.2)" succeeded
+  630.255 D Task "LibrariesTask(0x81190ac)" succeeded
+  630.255 D Task "FMLLibrariesTask(0x7d1e314)" starting for the first time
+  630.255 D Task "FMLLibrariesTask(0x7d1e314)" succeeded
+  630.255 D Task "AssetUpdateTask(0x8118bac)" starting for the first time
+  630.256 D Asset index SHA1: "1584b57c1a0b5e593fad1f5b8f78536ca640547b"
+  630.256 D "1.12.2" : Starting asset index download
+  630.256 D Task "NetJob(Asset index for 1.12.2)" starting for the first time
+  630.266 D Downloading  "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  630.799 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+  630.799 D Task "NetJob(Asset index for 1.12.2)" succeeded
+  630.799 D "1.12.2" : Finished asset index download
+  630.889 D Task "AssetUpdateTask(0x8118bac)" succeeded
+  630.890 D Task "MinecraftUpdate(0x8118aa0)" succeeded
+  630.890 D Task "Update(0x8118d20)" succeeded
+  630.892 D Task "ModMinecraftJar(0x6d29580)" starting for the first time
+  630.892 D Task "ModMinecraftJar(0x6d29580)" succeeded
+  630.892 D Task "ScanModFolders(0x4785a40)" starting for the first time
+  630.892 W QCoreApplication::postEvent: Unexpected null receiver
+  630.894 C Task "ScanModFolders(0x7c6d0a8)" succeeded while not running!!!!
+  630.906 D Task "ScanModFolders(0x4785a40)" succeeded
+  630.906 D Task "PrintInstanceInfo(0x47e58d0)" starting for the first time
+  630.961 D Task "PrintInstanceInfo(0x47e58d0)" succeeded
+  630.961 D Task "CreateServerResourcePacksFolder(0x4785aa0)" starting for the first time
+  630.961 D Task "CreateServerResourcePacksFolder(0x4785aa0)" succeeded
+  630.961 D Task "ExtractNatives(0x4785ad0)" starting for the first time
+  631.192 D Task "ExtractNatives(0x4785ad0)" succeeded
+  631.192 D Task "ReconstructAssets(0x4830fd0)" starting for the first time
+  631.193 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+  631.198 D Task "ReconstructAssets(0x4830fd0)" succeeded
+  631.198 D Task "LauncherPartLaunch(0x4853b70)" starting for the first time
+  631.205 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/natives -cp C:/Users/Pottebaum/Documents/MultiMC/jars/NewLaunch.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+  635.219 D Component list save performed now for "1.12.2"
+  660.300 D Task "NetJob(Status JSON)" starting for the first time
+  660.302 D Downloading  "https://status.mojang.com/check"
+  660.454 D Download succeeded: "https://status.mojang.com/check"
+  660.454 D Task "NetJob(Status JSON)" succeeded
+  660.454 D Finished loading status JSON.
+  660.454 D Status loading succeeded.
+  720.286 D Task "NetJob(Status JSON)" starting for the first time
+  720.286 D Downloading  "https://status.mojang.com/check"
+  720.544 D Download succeeded: "https://status.mojang.com/check"
+  720.544 D Task "NetJob(Status JSON)" succeeded
+  720.544 D Finished loading status JSON.
+  720.544 D Status loading succeeded.
+  780.284 D Task "NetJob(Status JSON)" starting for the first time
+  780.284 D Downloading  "https://status.mojang.com/check"
+  780.456 D Download succeeded: "https://status.mojang.com/check"
+  780.457 D Task "NetJob(Status JSON)" succeeded
+  780.457 D Finished loading status JSON.
+  780.457 D Status loading succeeded.
+  840.283 D Task "NetJob(Status JSON)" starting for the first time
+  840.283 D Downloading  "https://status.mojang.com/check"
+  840.907 D Download succeeded: "https://status.mojang.com/check"
+  840.907 D Task "NetJob(Status JSON)" succeeded
+  840.907 D Finished loading status JSON.
+  840.907 D Status loading succeeded.
+  900.289 D Task "NetJob(Status JSON)" starting for the first time
+  900.289 D Downloading  "https://status.mojang.com/check"
+  901.096 D Download succeeded: "https://status.mojang.com/check"
+  901.096 D Task "NetJob(Status JSON)" succeeded
+  901.096 D Finished loading status JSON.
+  901.096 D Status loading succeeded.
+  960.282 D Task "NetJob(Status JSON)" starting for the first time
+  960.283 D Downloading  "https://status.mojang.com/check"
+  960.602 D Download succeeded: "https://status.mojang.com/check"
+  960.602 D Task "NetJob(Status JSON)" succeeded
+  960.603 D Finished loading status JSON.
+  960.603 D Status loading succeeded.
+ 1020.289 D Task "NetJob(Status JSON)" starting for the first time
+ 1020.289 D Downloading  "https://status.mojang.com/check"
+ 1020.522 D Download succeeded: "https://status.mojang.com/check"
+ 1020.523 D Task "NetJob(Status JSON)" succeeded
+ 1020.523 D Finished loading status JSON.
+ 1020.523 D Status loading succeeded.
+ 1080.287 D Task "NetJob(Status JSON)" starting for the first time
+ 1080.287 D Downloading  "https://status.mojang.com/check"
+ 1080.641 D Download succeeded: "https://status.mojang.com/check"
+ 1080.641 D Task "NetJob(Status JSON)" succeeded
+ 1080.641 D Finished loading status JSON.
+ 1080.641 D Status loading succeeded.
+ 1107.898 D Task "LauncherPartLaunch(0x4853b70)" succeeded
+ 1107.901 D Writing account list to "accounts.json"
+ 1107.901 D Building JSON data structure.
+ 1107.901 D Building account array.
+ 1107.902 D Writing account list to file.
+ 1107.906 D Saved account list to "accounts.json"
+ 1107.909 W Account "skullportdragons@yahoo.com" is no longer in use.
+ 1107.942 D Task "LaunchTask(0x7d1ba40)" succeeded
+ 1107.942 D Task "LaunchController(0x7d1b680)" succeeded
+ 1110.601 D Task "LaunchController(0x7d1bb30)" starting for the first time
+ 1110.602 D Task "RefreshTask(0x8157078)" starting for the first time
+ 1111.123 D Processing authentication response.
+ 1111.123 D Getting new access token.
+ 1111.123 D Finished reading refresh response.
+ 1111.125 D Task "RefreshTask(0x8157078)" succeeded
+ 1111.126 D Writing account list to "accounts.json"
+ 1111.126 D Building JSON data structure.
+ 1111.126 D Building account array.
+ 1111.126 D Writing account list to file.
+ 1111.140 D Saved account list to "accounts.json"
+ 1111.404 D Task "LaunchTask(0x7d1bd10)" starting for the first time
+ 1111.404 D Task "TextPrint(0x6dd7b78)" starting for the first time
+ 1111.404 D Task "TextPrint(0x6dd7b78)" succeeded
+ 1111.404 D Task "TextPrint(0x6ec0ab8)" starting for the first time
+ 1111.405 D Task "TextPrint(0x6ec0ab8)" succeeded
+ 1111.405 D Task "CheckJava(0x8056b60)" starting for the first time
+ 1111.406 D Task "CheckJava(0x8056b60)" succeeded
+ 1111.406 D Task "ClaimAccount(0x6ec1768)" starting for the first time
+ 1111.406 D Writing account list to "accounts.json"
+ 1111.406 D Building JSON data structure.
+ 1111.406 D Building account array.
+ 1111.406 D Writing account list to file.
+ 1111.410 D Saved account list to "accounts.json"
+ 1111.411 W Account "skullportdragons@yahoo.com" is now in use.
+ 1111.411 D Task "ClaimAccount(0x6ec1768)" succeeded
+ 1111.411 D Task "Update(0x8056a20)" starting for the first time
+ 1111.411 D Task "MinecraftUpdate(0x8056da0)" starting for the first time
+ 1111.412 D Task "ComponentUpdateTask(0x6e67660)" starting for the first time
+ 1111.412 D Loading components
+ 1111.412 D Index is already loaded
+ 1111.412 D Component list save is scheduled for "1.12.2"
+ 1111.412 D Resolving dependencies
+ 1111.412 D "Req: net.minecraft == 1.12.2" Is met.
+ 1111.412 D "Req: org.lwjgl" Is met.
+ 1111.412 D Task "ComponentUpdateTask(0x6e67660)" succeeded
+ 1111.412 D Component list update/resolve task succeeded for "1.12.2"
+ 1111.412 D Task "FoldersTask(0x6dd7ecc)" starting for the first time
+ 1111.412 D Task "FoldersTask(0x6dd7ecc)" succeeded
+ 1111.412 D Task "LibrariesTask(0x8056fec)" starting for the first time
+ 1111.412 D "1.12.2" : downloading libraries
+ 1111.412 D Applying "org.lwjgl" GOOD
+ 1111.412 D Applying "net.minecraft" GOOD
+ 1111.412 D Applying "net.minecraftforge" GOOD
+ 1111.418 D Task "NetJob(Libraries for instance 1.12.2)" starting for the first time
+ 1111.441 D Task "NetJob(Libraries for instance 1.12.2)" succeeded
+ 1111.441 D Task "LibrariesTask(0x8056fec)" succeeded
+ 1111.441 D Task "FMLLibrariesTask(0xd2b53d4)" starting for the first time
+ 1111.441 D Task "FMLLibrariesTask(0xd2b53d4)" succeeded
+ 1111.441 D Task "AssetUpdateTask(0x80569ec)" starting for the first time
+ 1111.442 D Asset index SHA1: "1584b57c1a0b5e593fad1f5b8f78536ca640547b"
+ 1111.442 D "1.12.2" : Starting asset index download
+ 1111.442 D Task "NetJob(Asset index for 1.12.2)" starting for the first time
+ 1111.452 D Downloading  "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+ 1111.528 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+ 1111.528 D Task "NetJob(Asset index for 1.12.2)" succeeded
+ 1111.528 D "1.12.2" : Finished asset index download
+ 1111.600 D Task "AssetUpdateTask(0x80569ec)" succeeded
+ 1111.600 D Task "MinecraftUpdate(0x8056da0)" succeeded
+ 1111.600 D Task "Update(0x8056a20)" succeeded
+ 1111.602 D Task "ModMinecraftJar(0x6e67480)" starting for the first time
+ 1111.602 D Task "ModMinecraftJar(0x6e67480)" succeeded
+ 1111.602 D Task "ScanModFolders(0x6e670f0)" starting for the first time
+ 1111.603 W QCoreApplication::postEvent: Unexpected null receiver
+ 1111.608 C Task "ScanModFolders(0x4785a40)" succeeded while not running!!!!
+ 1111.621 D Task "ScanModFolders(0x6e670f0)" succeeded
+ 1111.621 D Task "PrintInstanceInfo(0x6ec1ce0)" starting for the first time
+ 1111.675 D Task "PrintInstanceInfo(0x6ec1ce0)" succeeded
+ 1111.675 D Task "CreateServerResourcePacksFolder(0x6e67330)" starting for the first time
+ 1111.676 D Task "CreateServerResourcePacksFolder(0x6e67330)" succeeded
+ 1111.676 D Task "ExtractNatives(0x6e671e0)" starting for the first time
+ 1111.898 D Task "ExtractNatives(0x6e671e0)" succeeded
+ 1111.898 D Task "ReconstructAssets(0x6e674b0)" starting for the first time
+ 1111.899 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+ 1111.904 D Task "ReconstructAssets(0x6e674b0)" succeeded
+ 1111.904 D Task "LauncherPartLaunch(0x339cf90)" starting for the first time
+ 1111.911 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/natives -cp C:/Users/Pottebaum/Documents/MultiMC/jars/NewLaunch.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+ 1116.404 D Component list save performed now for "1.12.2"
+ 1140.289 D Task "NetJob(Status JSON)" starting for the first time
+ 1140.290 D Downloading  "https://status.mojang.com/check"
+ 1140.516 D Download succeeded: "https://status.mojang.com/check"
+ 1140.516 D Task "NetJob(Status JSON)" succeeded
+ 1140.516 D Finished loading status JSON.
+ 1140.517 D Status loading succeeded.
+ 1200.286 D Task "NetJob(Status JSON)" starting for the first time
+ 1200.286 D Downloading  "https://status.mojang.com/check"
+ 1200.581 D Download succeeded: "https://status.mojang.com/check"
+ 1200.581 D Task "NetJob(Status JSON)" succeeded
+ 1200.581 D Finished loading status JSON.
+ 1200.581 D Status loading succeeded.
+ 1260.282 D Task "NetJob(Status JSON)" starting for the first time
+ 1260.282 D Downloading  "https://status.mojang.com/check"
+ 1260.443 D Download succeeded: "https://status.mojang.com/check"
+ 1260.443 D Task "NetJob(Status JSON)" succeeded
+ 1260.443 D Finished loading status JSON.
+ 1260.443 D Status loading succeeded.
+ 1320.284 D Task "NetJob(Status JSON)" starting for the first time
+ 1320.284 D Downloading  "https://status.mojang.com/check"
+ 1320.594 D Download succeeded: "https://status.mojang.com/check"
+ 1320.594 D Task "NetJob(Status JSON)" succeeded
+ 1320.594 D Finished loading status JSON.
+ 1320.594 D Status loading succeeded.
+ 1380.285 D Task "NetJob(Status JSON)" starting for the first time
+ 1380.285 D Downloading  "https://status.mojang.com/check"
+ 1380.459 D Download succeeded: "https://status.mojang.com/check"
+ 1380.459 D Task "NetJob(Status JSON)" succeeded
+ 1380.459 D Finished loading status JSON.
+ 1380.459 D Status loading succeeded.
+ 1440.284 D Task "NetJob(Status JSON)" starting for the first time
+ 1440.284 D Downloading  "https://status.mojang.com/check"
+ 1440.529 D Download succeeded: "https://status.mojang.com/check"
+ 1440.529 D Task "NetJob(Status JSON)" succeeded
+ 1440.529 D Finished loading status JSON.
+ 1440.529 D Status loading succeeded.
+ 1500.286 D Task "NetJob(Status JSON)" starting for the first time
+ 1500.286 D Downloading  "https://status.mojang.com/check"
+ 1500.480 D Download succeeded: "https://status.mojang.com/check"
+ 1500.480 D Task "NetJob(Status JSON)" succeeded
+ 1500.480 D Finished loading status JSON.
+ 1500.480 D Status loading succeeded.
+ 1560.283 D Task "NetJob(Status JSON)" starting for the first time
+ 1560.283 D Downloading  "https://status.mojang.com/check"
+ 1560.628 D Download succeeded: "https://status.mojang.com/check"
+ 1560.628 D Task "NetJob(Status JSON)" succeeded
+ 1560.628 D Finished loading status JSON.
+ 1560.628 D Status loading succeeded.
+ 1620.284 D Task "NetJob(Status JSON)" starting for the first time
+ 1620.284 D Downloading  "https://status.mojang.com/check"
+ 1620.439 D Download succeeded: "https://status.mojang.com/check"
+ 1620.439 D Task "NetJob(Status JSON)" succeeded
+ 1620.439 D Finished loading status JSON.
+ 1620.439 D Status loading succeeded.
+ 1680.281 D Task "NetJob(Status JSON)" starting for the first time
+ 1680.281 D Downloading  "https://status.mojang.com/check"
+ 1680.795 D Download succeeded: "https://status.mojang.com/check"
+ 1680.795 D Task "NetJob(Status JSON)" succeeded
+ 1680.795 D Finished loading status JSON.
+ 1680.795 D Status loading succeeded.
+ 1740.280 D Task "NetJob(Status JSON)" starting for the first time
+ 1740.280 D Downloading  "https://status.mojang.com/check"
+ 1740.827 D Download succeeded: "https://status.mojang.com/check"
+ 1740.827 D Task "NetJob(Status JSON)" succeeded
+ 1740.827 D Finished loading status JSON.
+ 1740.827 D Status loading succeeded.
+ 1800.285 D Task "NetJob(Status JSON)" starting for the first time
+ 1800.285 D Downloading  "https://status.mojang.com/check"
+ 1800.546 D Download succeeded: "https://status.mojang.com/check"
+ 1800.546 D Task "NetJob(Status JSON)" succeeded
+ 1800.546 D Finished loading status JSON.
+ 1800.547 D Status loading succeeded.
+ 1860.282 D Task "NetJob(Status JSON)" starting for the first time
+ 1860.282 D Downloading  "https://status.mojang.com/check"
+ 1860.494 D Download succeeded: "https://status.mojang.com/check"
+ 1860.494 D Task "NetJob(Status JSON)" succeeded
+ 1860.494 D Finished loading status JSON.
+ 1860.494 D Status loading succeeded.
+ 1920.286 D Task "NetJob(Status JSON)" starting for the first time
+ 1920.286 D Downloading  "https://status.mojang.com/check"
+ 1920.547 D Download succeeded: "https://status.mojang.com/check"
+ 1920.547 D Task "NetJob(Status JSON)" succeeded
+ 1920.547 D Finished loading status JSON.
+ 1920.547 D Status loading succeeded.
+ 1980.282 D Task "NetJob(Status JSON)" starting for the first time
+ 1980.282 D Downloading  "https://status.mojang.com/check"
+ 1980.595 D Download succeeded: "https://status.mojang.com/check"
+ 1980.595 D Task "NetJob(Status JSON)" succeeded
+ 1980.595 D Finished loading status JSON.
+ 1980.595 D Status loading succeeded.
+ 2040.284 D Task "NetJob(Status JSON)" starting for the first time
+ 2040.284 D Downloading  "https://status.mojang.com/check"
+ 2040.460 D Download succeeded: "https://status.mojang.com/check"
+ 2040.460 D Task "NetJob(Status JSON)" succeeded
+ 2040.460 D Finished loading status JSON.
+ 2040.461 D Status loading succeeded.
+ 2100.286 D Task "NetJob(Status JSON)" starting for the first time
+ 2100.286 D Downloading  "https://status.mojang.com/check"
+ 2100.715 D Download succeeded: "https://status.mojang.com/check"
+ 2100.715 D Task "NetJob(Status JSON)" succeeded
+ 2100.715 D Finished loading status JSON.
+ 2100.715 D Status loading succeeded.
+ 2160.288 D Task "NetJob(Status JSON)" starting for the first time
+ 2160.288 D Downloading  "https://status.mojang.com/check"
+ 2160.928 D Download succeeded: "https://status.mojang.com/check"
+ 2160.928 D Task "NetJob(Status JSON)" succeeded
+ 2160.928 D Finished loading status JSON.
+ 2160.928 D Status loading succeeded.
+ 2220.288 D Task "NetJob(Status JSON)" starting for the first time
+ 2220.288 D Downloading  "https://status.mojang.com/check"
+ 2220.625 D Download succeeded: "https://status.mojang.com/check"
+ 2220.625 D Task "NetJob(Status JSON)" succeeded
+ 2220.625 D Finished loading status JSON.
+ 2220.625 D Status loading succeeded.
+ 2280.285 D Task "NetJob(Status JSON)" starting for the first time
+ 2280.285 D Downloading  "https://status.mojang.com/check"
+ 2280.583 D Download succeeded: "https://status.mojang.com/check"
+ 2280.583 D Task "NetJob(Status JSON)" succeeded
+ 2280.583 D Finished loading status JSON.
+ 2280.583 D Status loading succeeded.
+ 2340.284 D Task "NetJob(Status JSON)" starting for the first time
+ 2340.284 D Downloading  "https://status.mojang.com/check"
+ 2340.446 D Download succeeded: "https://status.mojang.com/check"
+ 2340.446 D Task "NetJob(Status JSON)" succeeded
+ 2340.446 D Finished loading status JSON.
+ 2340.446 D Status loading succeeded.
+ 2400.282 D Task "NetJob(Status JSON)" starting for the first time
+ 2400.282 D Downloading  "https://status.mojang.com/check"
+ 2400.530 D Download succeeded: "https://status.mojang.com/check"
+ 2400.530 D Task "NetJob(Status JSON)" succeeded
+ 2400.530 D Finished loading status JSON.
+ 2400.530 D Status loading succeeded.
+ 2460.285 D Task "NetJob(Status JSON)" starting for the first time
+ 2460.285 D Downloading  "https://status.mojang.com/check"
+ 2460.552 D Download succeeded: "https://status.mojang.com/check"
+ 2460.552 D Task "NetJob(Status JSON)" succeeded
+ 2460.552 D Finished loading status JSON.
+ 2460.552 D Status loading succeeded.
+ 2520.278 D Task "NetJob(Status JSON)" starting for the first time
+ 2520.278 D Downloading  "https://status.mojang.com/check"
+ 2520.545 D Download succeeded: "https://status.mojang.com/check"
+ 2520.545 D Task "NetJob(Status JSON)" succeeded
+ 2520.545 D Finished loading status JSON.
+ 2520.545 D Status loading succeeded.
+ 2580.285 D Task "NetJob(Status JSON)" starting for the first time
+ 2580.285 D Downloading  "https://status.mojang.com/check"
+ 2580.437 D Download succeeded: "https://status.mojang.com/check"
+ 2580.437 D Task "NetJob(Status JSON)" succeeded
+ 2580.437 D Finished loading status JSON.
+ 2580.437 D Status loading succeeded.
+ 2640.278 D Task "NetJob(Status JSON)" starting for the first time
+ 2640.278 D Downloading  "https://status.mojang.com/check"
+ 2640.884 D Download succeeded: "https://status.mojang.com/check"
+ 2640.884 D Task "NetJob(Status JSON)" succeeded
+ 2640.885 D Finished loading status JSON.
+ 2640.885 D Status loading succeeded.
+ 2700.283 D Task "NetJob(Status JSON)" starting for the first time
+ 2700.283 D Downloading  "https://status.mojang.com/check"
+ 2700.433 D Download succeeded: "https://status.mojang.com/check"
+ 2700.433 D Task "NetJob(Status JSON)" succeeded
+ 2700.433 D Finished loading status JSON.
+ 2700.433 D Status loading succeeded.
+ 2760.288 D Task "NetJob(Status JSON)" starting for the first time
+ 2760.288 D Downloading  "https://status.mojang.com/check"
+ 2760.602 D Download succeeded: "https://status.mojang.com/check"
+ 2760.602 D Task "NetJob(Status JSON)" succeeded
+ 2760.602 D Finished loading status JSON.
+ 2760.602 D Status loading succeeded.
+ 2820.285 D Task "NetJob(Status JSON)" starting for the first time
+ 2820.285 D Downloading  "https://status.mojang.com/check"
+ 2820.538 D Download succeeded: "https://status.mojang.com/check"
+ 2820.538 D Task "NetJob(Status JSON)" succeeded
+ 2820.538 D Finished loading status JSON.
+ 2820.538 D Status loading succeeded.
+ 2880.287 D Task "NetJob(Status JSON)" starting for the first time
+ 2880.287 D Downloading  "https://status.mojang.com/check"
+ 2880.610 D Download succeeded: "https://status.mojang.com/check"
+ 2880.610 D Task "NetJob(Status JSON)" succeeded
+ 2880.610 D Finished loading status JSON.
+ 2880.610 D Status loading succeeded.
+ 2940.284 D Task "NetJob(Status JSON)" starting for the first time
+ 2940.284 D Downloading  "https://status.mojang.com/check"
+ 2940.594 D Download succeeded: "https://status.mojang.com/check"
+ 2940.594 D Task "NetJob(Status JSON)" succeeded
+ 2940.594 D Finished loading status JSON.
+ 2940.594 D Status loading succeeded.
+ 3000.283 D Task "NetJob(Status JSON)" starting for the first time
+ 3000.283 D Downloading  "https://status.mojang.com/check"
+ 3000.688 D Download succeeded: "https://status.mojang.com/check"
+ 3000.688 D Task "NetJob(Status JSON)" succeeded
+ 3000.688 D Finished loading status JSON.
+ 3000.688 D Status loading succeeded.
+ 3060.288 D Task "NetJob(Status JSON)" starting for the first time
+ 3060.288 D Downloading  "https://status.mojang.com/check"
+ 3063.392 D Download succeeded: "https://status.mojang.com/check"
+ 3063.392 D Task "NetJob(Status JSON)" succeeded
+ 3063.392 D Finished loading status JSON.
+ 3063.392 D Status loading succeeded.
+ 3120.283 D Task "NetJob(Status JSON)" starting for the first time
+ 3120.283 D Downloading  "https://status.mojang.com/check"
+ 3120.496 D Download succeeded: "https://status.mojang.com/check"
+ 3120.496 D Task "NetJob(Status JSON)" succeeded
+ 3120.496 D Finished loading status JSON.
+ 3120.496 D Status loading succeeded.
+ 3180.284 D Task "NetJob(Status JSON)" starting for the first time
+ 3180.284 D Downloading  "https://status.mojang.com/check"
+ 3180.617 D Download succeeded: "https://status.mojang.com/check"
+ 3180.617 D Task "NetJob(Status JSON)" succeeded
+ 3180.617 D Finished loading status JSON.
+ 3180.617 D Status loading succeeded.
+ 3240.280 D Task "NetJob(Status JSON)" starting for the first time
+ 3240.280 D Downloading  "https://status.mojang.com/check"
+ 3240.597 D Download succeeded: "https://status.mojang.com/check"
+ 3240.598 D Task "NetJob(Status JSON)" succeeded
+ 3240.598 D Finished loading status JSON.
+ 3240.598 D Status loading succeeded.
+ 3300.281 D Task "NetJob(Status JSON)" starting for the first time
+ 3300.281 D Downloading  "https://status.mojang.com/check"
+ 3300.457 D Download succeeded: "https://status.mojang.com/check"
+ 3300.457 D Task "NetJob(Status JSON)" succeeded
+ 3300.457 D Finished loading status JSON.
+ 3300.458 D Status loading succeeded.
+ 3360.287 D Task "NetJob(Status JSON)" starting for the first time
+ 3360.287 D Downloading  "https://status.mojang.com/check"
+ 3360.772 D Download succeeded: "https://status.mojang.com/check"
+ 3360.772 D Task "NetJob(Status JSON)" succeeded
+ 3360.772 D Finished loading status JSON.
+ 3360.772 D Status loading succeeded.
+ 3420.289 D Task "NetJob(Status JSON)" starting for the first time
+ 3420.289 D Downloading  "https://status.mojang.com/check"
+ 3423.138 D Download succeeded: "https://status.mojang.com/check"
+ 3423.138 D Task "NetJob(Status JSON)" succeeded
+ 3423.138 D Finished loading status JSON.
+ 3423.138 D Status loading succeeded.
+ 3480.285 D Task "NetJob(Status JSON)" starting for the first time
+ 3480.285 D Downloading  "https://status.mojang.com/check"
+ 3480.670 D Download succeeded: "https://status.mojang.com/check"
+ 3480.670 D Task "NetJob(Status JSON)" succeeded
+ 3480.670 D Finished loading status JSON.
+ 3480.670 D Status loading succeeded.
+ 3540.284 D Task "NetJob(Status JSON)" starting for the first time
+ 3540.284 D Downloading  "https://status.mojang.com/check"
+ 3540.790 D Download succeeded: "https://status.mojang.com/check"
+ 3540.790 D Task "NetJob(Status JSON)" succeeded
+ 3540.790 D Finished loading status JSON.
+ 3540.790 D Status loading succeeded.
+ 3600.288 D Task "NetJob(Status JSON)" starting for the first time
+ 3600.288 D Downloading  "https://status.mojang.com/check"
+ 3600.875 D Download succeeded: "https://status.mojang.com/check"
+ 3600.876 D Task "NetJob(Status JSON)" succeeded
+ 3600.876 D Finished loading status JSON.
+ 3600.876 D Status loading succeeded.
+ 3660.278 D Task "NetJob(Status JSON)" starting for the first time
+ 3660.278 D Downloading  "https://status.mojang.com/check"
+ 3660.450 D Download succeeded: "https://status.mojang.com/check"
+ 3660.450 D Task "NetJob(Status JSON)" succeeded
+ 3660.450 D Finished loading status JSON.
+ 3660.450 D Status loading succeeded.
+ 3720.281 D Task "NetJob(Status JSON)" starting for the first time
+ 3720.281 D Downloading  "https://status.mojang.com/check"
+ 3720.610 D Download succeeded: "https://status.mojang.com/check"
+ 3720.610 D Task "NetJob(Status JSON)" succeeded
+ 3720.610 D Finished loading status JSON.
+ 3720.610 D Status loading succeeded.
+ 3780.285 D Task "NetJob(Status JSON)" starting for the first time
+ 3780.285 D Downloading  "https://status.mojang.com/check"
+ 3780.505 D Download succeeded: "https://status.mojang.com/check"
+ 3780.505 D Task "NetJob(Status JSON)" succeeded
+ 3780.505 D Finished loading status JSON.
+ 3780.506 D Status loading succeeded.
+ 3840.287 D Task "NetJob(Status JSON)" starting for the first time
+ 3840.288 D Downloading  "https://status.mojang.com/check"
+ 3840.572 D Download succeeded: "https://status.mojang.com/check"
+ 3840.572 D Task "NetJob(Status JSON)" succeeded
+ 3840.572 D Finished loading status JSON.
+ 3840.572 D Status loading succeeded.
+ 3900.282 D Task "NetJob(Status JSON)" starting for the first time
+ 3900.282 D Downloading  "https://status.mojang.com/check"
+ 3900.450 D Download succeeded: "https://status.mojang.com/check"
+ 3900.450 D Task "NetJob(Status JSON)" succeeded
+ 3900.450 D Finished loading status JSON.
+ 3900.450 D Status loading succeeded.
+ 3960.279 D Task "NetJob(Status JSON)" starting for the first time
+ 3960.279 D Downloading  "https://status.mojang.com/check"
+ 3960.689 D Download succeeded: "https://status.mojang.com/check"
+ 3960.689 D Task "NetJob(Status JSON)" succeeded
+ 3960.689 D Finished loading status JSON.
+ 3960.689 D Status loading succeeded.
+ 4020.281 D Task "NetJob(Status JSON)" starting for the first time
+ 4020.281 D Downloading  "https://status.mojang.com/check"
+ 4020.607 D Download succeeded: "https://status.mojang.com/check"
+ 4020.607 D Task "NetJob(Status JSON)" succeeded
+ 4020.607 D Finished loading status JSON.
+ 4020.607 D Status loading succeeded.
+ 4080.282 D Task "NetJob(Status JSON)" starting for the first time
+ 4080.283 D Downloading  "https://status.mojang.com/check"
+ 4080.491 D Download succeeded: "https://status.mojang.com/check"
+ 4080.491 D Task "NetJob(Status JSON)" succeeded
+ 4080.491 D Finished loading status JSON.
+ 4080.491 D Status loading succeeded.
+ 4140.278 D Task "NetJob(Status JSON)" starting for the first time
+ 4140.278 D Downloading  "https://status.mojang.com/check"
+ 4140.439 D Download succeeded: "https://status.mojang.com/check"
+ 4140.440 D Task "NetJob(Status JSON)" succeeded
+ 4140.440 D Finished loading status JSON.
+ 4140.440 D Status loading succeeded.
+ 4200.281 D Task "NetJob(Status JSON)" starting for the first time
+ 4200.281 D Downloading  "https://status.mojang.com/check"
+ 4200.555 D Download succeeded: "https://status.mojang.com/check"
+ 4200.555 D Task "NetJob(Status JSON)" succeeded
+ 4200.555 D Finished loading status JSON.
+ 4200.555 D Status loading succeeded.
+ 4260.283 D Task "NetJob(Status JSON)" starting for the first time
+ 4260.283 D Downloading  "https://status.mojang.com/check"
+ 4260.683 D Download succeeded: "https://status.mojang.com/check"
+ 4260.683 D Task "NetJob(Status JSON)" succeeded
+ 4260.684 D Finished loading status JSON.
+ 4260.684 D Status loading succeeded.
+ 4320.284 D Task "NetJob(Status JSON)" starting for the first time
+ 4320.284 D Downloading  "https://status.mojang.com/check"
+ 4321.012 D Download succeeded: "https://status.mojang.com/check"
+ 4321.012 D Task "NetJob(Status JSON)" succeeded
+ 4321.013 D Finished loading status JSON.
+ 4321.013 D Status loading succeeded.
+ 4380.285 D Task "NetJob(Status JSON)" starting for the first time
+ 4380.285 D Downloading  "https://status.mojang.com/check"
+ 4380.463 D Download succeeded: "https://status.mojang.com/check"
+ 4380.464 D Task "NetJob(Status JSON)" succeeded
+ 4380.464 D Finished loading status JSON.
+ 4380.464 D Status loading succeeded.
+ 4440.279 D Task "NetJob(Status JSON)" starting for the first time
+ 4440.279 D Downloading  "https://status.mojang.com/check"
+ 4440.506 D Download succeeded: "https://status.mojang.com/check"
+ 4440.506 D Task "NetJob(Status JSON)" succeeded
+ 4440.506 D Finished loading status JSON.
+ 4440.506 D Status loading succeeded.
+ 4500.285 D Task "NetJob(Status JSON)" starting for the first time
+ 4500.285 D Downloading  "https://status.mojang.com/check"
+ 4500.621 D Download succeeded: "https://status.mojang.com/check"
+ 4500.621 D Task "NetJob(Status JSON)" succeeded
+ 4500.622 D Finished loading status JSON.
+ 4500.622 D Status loading succeeded.
+ 4560.279 D Task "NetJob(Status JSON)" starting for the first time
+ 4560.280 D Downloading  "https://status.mojang.com/check"
+ 4560.796 D Download succeeded: "https://status.mojang.com/check"
+ 4560.797 D Task "NetJob(Status JSON)" succeeded
+ 4560.797 D Finished loading status JSON.
+ 4560.797 D Status loading succeeded.
+ 4620.280 D Task "NetJob(Status JSON)" starting for the first time
+ 4620.280 D Downloading  "https://status.mojang.com/check"
+ 4620.445 D Download succeeded: "https://status.mojang.com/check"
+ 4620.445 D Task "NetJob(Status JSON)" succeeded
+ 4620.445 D Finished loading status JSON.
+ 4620.445 D Status loading succeeded.
+ 4680.285 D Task "NetJob(Status JSON)" starting for the first time
+ 4680.286 D Downloading  "https://status.mojang.com/check"
+ 4680.643 D Download succeeded: "https://status.mojang.com/check"
+ 4680.644 D Task "NetJob(Status JSON)" succeeded
+ 4680.644 D Finished loading status JSON.
+ 4680.644 D Status loading succeeded.
+ 4740.287 D Task "NetJob(Status JSON)" starting for the first time
+ 4740.287 D Downloading  "https://status.mojang.com/check"
+ 4740.539 D Download succeeded: "https://status.mojang.com/check"
+ 4740.540 D Task "NetJob(Status JSON)" succeeded
+ 4740.540 D Finished loading status JSON.
+ 4740.540 D Status loading succeeded.
+ 4800.281 D Task "NetJob(Status JSON)" starting for the first time
+ 4800.281 D Downloading  "https://status.mojang.com/check"
+ 4800.828 D Download succeeded: "https://status.mojang.com/check"
+ 4800.829 D Task "NetJob(Status JSON)" succeeded
+ 4800.829 D Finished loading status JSON.
+ 4800.829 D Status loading succeeded.
+ 4860.286 D Task "NetJob(Status JSON)" starting for the first time
+ 4860.286 D Downloading  "https://status.mojang.com/check"
+ 4860.529 D Download succeeded: "https://status.mojang.com/check"
+ 4860.529 D Task "NetJob(Status JSON)" succeeded
+ 4860.529 D Finished loading status JSON.
+ 4860.529 D Status loading succeeded.
+ 4920.280 D Task "NetJob(Status JSON)" starting for the first time
+ 4920.280 D Downloading  "https://status.mojang.com/check"
+ 4920.726 D Download succeeded: "https://status.mojang.com/check"
+ 4920.726 D Task "NetJob(Status JSON)" succeeded
+ 4920.726 D Finished loading status JSON.
+ 4920.726 D Status loading succeeded.
+ 4982.942 D Task "NetJob(Status JSON)" starting for the first time
+ 4983.094 D Downloading  "https://status.mojang.com/check"
+ 4989.209 D Download succeeded: "https://status.mojang.com/check"
+ 4989.209 D Task "NetJob(Status JSON)" succeeded
+ 4989.209 D Finished loading status JSON.
+ 4989.209 D Status loading succeeded.
+ 5024.771 D Task "LauncherPartLaunch(0x339cf90)" succeeded
+ 5024.780 D Writing account list to "accounts.json"
+ 5024.780 D Building JSON data structure.
+ 5024.780 D Building account array.
+ 5024.780 D Writing account list to file.
+ 5024.781 D Saved account list to "accounts.json"
+ 5024.788 W Account "skullportdragons@yahoo.com" is no longer in use.
+ 5024.844 D Task "LaunchTask(0x7d1bd10)" succeeded
+ 5024.844 D Task "LaunchController(0x7d1bb30)" succeeded
+ 5033.729 D Task "LaunchController(0x70a11f8)" starting for the first time
+ 5033.733 D Task "RefreshTask(0xfe2e5f0)" starting for the first time
+ 5034.156 D Processing authentication response.
+ 5034.156 D Getting new access token.
+ 5034.156 D Finished reading refresh response.
+ 5034.158 D Task "RefreshTask(0xfe2e5f0)" succeeded
+ 5034.159 D Writing account list to "accounts.json"
+ 5034.159 D Building JSON data structure.
+ 5034.159 D Building account array.
+ 5034.159 D Writing account list to file.
+ 5034.177 D Saved account list to "accounts.json"
+ 5034.448 D Task "LaunchTask(0x7e3e278)" starting for the first time
+ 5034.449 D Task "TextPrint(0xdb1d8d0)" starting for the first time
+ 5034.449 D Task "TextPrint(0xdb1d8d0)" succeeded
+ 5034.449 D Task "TextPrint(0xdb1c4e8)" starting for the first time
+ 5034.449 D Task "TextPrint(0xdb1c4e8)" succeeded
+ 5034.449 D Task "CheckJava(0x47d71c8)" starting for the first time
+ 5034.450 D Task "CheckJava(0x47d71c8)" succeeded
+ 5034.451 D Task "ClaimAccount(0xdb1cd70)" starting for the first time
+ 5034.451 D Writing account list to "accounts.json"
+ 5034.451 D Building JSON data structure.
+ 5034.451 D Building account array.
+ 5034.451 D Writing account list to file.
+ 5034.452 D Saved account list to "accounts.json"
+ 5034.452 W Account "skullportdragons@yahoo.com" is now in use.
+ 5034.453 D Task "ClaimAccount(0xdb1cd70)" succeeded
+ 5034.453 D Task "Update(0x47d7608)" starting for the first time
+ 5034.453 D Task "MinecraftUpdate(0x47d7288)" starting for the first time
+ 5034.457 D Task "ComponentUpdateTask(0x6e688f0)" starting for the first time
+ 5034.457 D Loading components
+ 5034.457 D Index is already loaded
+ 5034.457 D Component list save is scheduled for "1.12.2"
+ 5034.457 D Resolving dependencies
+ 5034.457 D "Req: net.minecraft == 1.12.2" Is met.
+ 5034.457 D "Req: org.lwjgl" Is met.
+ 5034.457 D Task "ComponentUpdateTask(0x6e688f0)" succeeded
+ 5034.457 D Component list update/resolve task succeeded for "1.12.2"
+ 5034.457 D Task "FoldersTask(0xdb1b924)" starting for the first time
+ 5034.458 D Task "FoldersTask(0xdb1b924)" succeeded
+ 5034.458 D Task "LibrariesTask(0x47d7814)" starting for the first time
+ 5034.458 D "1.12.2" : downloading libraries
+ 5034.458 D Applying "org.lwjgl" GOOD
+ 5034.458 D Applying "net.minecraft" GOOD
+ 5034.458 D Applying "net.minecraftforge" GOOD
+ 5034.468 D Task "NetJob(Libraries for instance 1.12.2)" starting for the first time
+ 5034.493 D Task "NetJob(Libraries for instance 1.12.2)" succeeded
+ 5034.493 D Task "LibrariesTask(0x47d7814)" succeeded
+ 5034.493 D Task "FMLLibrariesTask(0x6dd9bc4)" starting for the first time
+ 5034.494 D Task "FMLLibrariesTask(0x6dd9bc4)" succeeded
+ 5034.494 D Task "AssetUpdateTask(0x47d7794)" starting for the first time
+ 5034.495 D Asset index SHA1: "1584b57c1a0b5e593fad1f5b8f78536ca640547b"
+ 5034.495 D "1.12.2" : Starting asset index download
+ 5034.495 D Task "NetJob(Asset index for 1.12.2)" starting for the first time
+ 5034.499 D Downloading  "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+ 5035.105 D Download succeeded: "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json"
+ 5035.105 D Task "NetJob(Asset index for 1.12.2)" succeeded
+ 5035.105 D "1.12.2" : Finished asset index download
+ 5035.299 D Task "AssetUpdateTask(0x47d7794)" succeeded
+ 5035.299 D Task "MinecraftUpdate(0x47d7288)" succeeded
+ 5035.299 D Task "Update(0x47d7608)" succeeded
+ 5035.302 D Task "ModMinecraftJar(0x6e67960)" starting for the first time
+ 5035.302 D Task "ModMinecraftJar(0x6e67960)" succeeded
+ 5035.302 D Task "ScanModFolders(0x6e68680)" starting for the first time
+ 5035.302 W QCoreApplication::postEvent: Unexpected null receiver
+ 5035.305 C Task "ScanModFolders(0x6e670f0)" succeeded while not running!!!!
+ 5035.319 D Task "ScanModFolders(0x6e68680)" succeeded
+ 5035.319 D Task "PrintInstanceInfo(0xdb1d5f8)" starting for the first time
+ 5035.373 D Task "PrintInstanceInfo(0xdb1d5f8)" succeeded
+ 5035.373 D Task "CreateServerResourcePacksFolder(0x6e68710)" starting for the first time
+ 5035.374 D Task "CreateServerResourcePacksFolder(0x6e68710)" succeeded
+ 5035.374 D Task "ExtractNatives(0x6e68320)" starting for the first time
+ 5035.914 D Task "ExtractNatives(0x6e68320)" succeeded
+ 5035.914 D Task "ReconstructAssets(0x6e684d0)" starting for the first time
+ 5035.915 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+ 5035.920 D Task "ReconstructAssets(0x6e684d0)" succeeded
+ 5035.920 D Task "LauncherPartLaunch(0x47c7378)" starting for the first time
+ 5035.928 D "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=C:/Users/Pottebaum/Documents/MultiMC/instances/1.12.2/natives -cp C:/Users/Pottebaum/Documents/MultiMC/jars/NewLaunch.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar;C:/Users/Pottebaum/Documents/MultiMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+ 5039.456 D Component list save performed now for "1.12.2"
+ 5040.283 D Task "NetJob(Status JSON)" starting for the first time
+ 5040.283 D Downloading  "https://status.mojang.com/check"
+ 5040.480 D Download succeeded: "https://status.mojang.com/check"
+ 5040.480 D Task "NetJob(Status JSON)" succeeded
+ 5040.481 D Finished loading status JSON.
+ 5040.481 D Status loading succeeded.
+ 5100.287 D Task "NetJob(Status JSON)" starting for the first time
+ 5100.287 D Downloading  "https://status.mojang.com/check"
+ 5100.554 D Download succeeded: "https://status.mojang.com/check"
+ 5100.554 D Task "NetJob(Status JSON)" succeeded
+ 5100.554 D Finished loading status JSON.
+ 5100.554 D Status loading succeeded.
+ 5160.280 D Task "NetJob(Status JSON)" starting for the first time
+ 5160.280 D Downloading  "https://status.mojang.com/check"
+ 5160.439 D Download succeeded: "https://status.mojang.com/check"
+ 5160.439 D Task "NetJob(Status JSON)" succeeded
+ 5160.439 D Finished loading status JSON.
+ 5160.439 D Status loading succeeded.
+ 5220.279 D Task "NetJob(Status JSON)" starting for the first time
+ 5220.279 D Downloading  "https://status.mojang.com/check"
+ 5220.766 D Download succeeded: "https://status.mojang.com/check"
+ 5220.766 D Task "NetJob(Status JSON)" succeeded
+ 5220.766 D Finished loading status JSON.
+ 5220.766 D Status loading succeeded.
+ 5280.286 D Task "NetJob(Status JSON)" starting for the first time
+ 5280.286 D Downloading  "https://status.mojang.com/check"
+ 5280.452 D Download succeeded: "https://status.mojang.com/check"
+ 5280.452 D Task "NetJob(Status JSON)" succeeded
+ 5280.452 D Finished loading status JSON.
+ 5280.452 D Status loading succeeded.
+ 5340.281 D Task "NetJob(Status JSON)" starting for the first time
+ 5340.281 D Downloading  "https://status.mojang.com/check"
+ 5340.480 D Download succeeded: "https://status.mojang.com/check"
+ 5340.481 D Task "NetJob(Status JSON)" succeeded
+ 5340.481 D Finished loading status JSON.
+ 5340.481 D Status loading succeeded.
+ 5400.289 D Task "NetJob(Status JSON)" starting for the first time
+ 5400.289 D Downloading  "https://status.mojang.com/check"
+ 5400.884 D Download succeeded: "https://status.mojang.com/check"
+ 5400.884 D Task "NetJob(Status JSON)" succeeded
+ 5400.884 D Finished loading status JSON.
+ 5400.884 D Status loading succeeded.
+ 5460.283 D Task "NetJob(Status JSON)" starting for the first time
+ 5460.283 D Downloading  "https://status.mojang.com/check"
+ 5460.582 D Download succeeded: "https://status.mojang.com/check"
+ 5460.582 D Task "NetJob(Status JSON)" succeeded
+ 5460.582 D Finished loading status JSON.
+ 5460.582 D Status loading succeeded.
+ 5520.279 D Task "NetJob(Status JSON)" starting for the first time
+ 5520.279 D Downloading  "https://status.mojang.com/check"
+ 5520.615 D Download succeeded: "https://status.mojang.com/check"
+ 5520.615 D Task "NetJob(Status JSON)" succeeded
+ 5520.615 D Finished loading status JSON.
+ 5520.615 D Status loading succeeded.
+ 5580.285 D Task "NetJob(Status JSON)" starting for the first time
+ 5580.285 D Downloading  "https://status.mojang.com/check"
+ 5580.751 D Download succeeded: "https://status.mojang.com/check"
+ 5580.751 D Task "NetJob(Status JSON)" succeeded
+ 5580.751 D Finished loading status JSON.
+ 5580.751 D Status loading succeeded.
+ 5640.287 D Task "NetJob(Status JSON)" starting for the first time
+ 5640.287 D Downloading  "https://status.mojang.com/check"
+ 5640.439 D Download succeeded: "https://status.mojang.com/check"
+ 5640.440 D Task "NetJob(Status JSON)" succeeded
+ 5640.440 D Finished loading status JSON.
+ 5640.440 D Status loading succeeded.
+ 5700.286 D Task "NetJob(Status JSON)" starting for the first time
+ 5700.286 D Downloading  "https://status.mojang.com/check"
+ 5700.809 D Download succeeded: "https://status.mojang.com/check"
+ 5700.809 D Task "NetJob(Status JSON)" succeeded
+ 5700.809 D Finished loading status JSON.
+ 5700.809 D Status loading succeeded.
+ 5760.281 D Task "NetJob(Status JSON)" starting for the first time
+ 5760.281 D Downloading  "https://status.mojang.com/check"
+ 5760.439 D Download succeeded: "https://status.mojang.com/check"
+ 5760.439 D Task "NetJob(Status JSON)" succeeded
+ 5760.439 D Finished loading status JSON.
+ 5760.439 D Status loading succeeded.
+ 5820.281 D Task "NetJob(Status JSON)" starting for the first time
+ 5820.281 D Downloading  "https://status.mojang.com/check"
+ 5820.524 D Download succeeded: "https://status.mojang.com/check"
+ 5820.524 D Task "NetJob(Status JSON)" succeeded
+ 5820.524 D Finished loading status JSON.
+ 5820.524 D Status loading succeeded.
+ 5880.286 D Task "NetJob(Status JSON)" starting for the first time
+ 5880.286 D Downloading  "https://status.mojang.com/check"
+ 5880.433 D Download succeeded: "https://status.mojang.com/check"
+ 5880.433 D Task "NetJob(Status JSON)" succeeded
+ 5880.433 D Finished loading status JSON.
+ 5880.433 D Status loading succeeded.
+ 5940.288 D Task "NetJob(Status JSON)" starting for the first time
+ 5940.288 D Downloading  "https://status.mojang.com/check"
+ 5940.458 D Download succeeded: "https://status.mojang.com/check"
+ 5940.458 D Task "NetJob(Status JSON)" succeeded
+ 5940.458 D Finished loading status JSON.
+ 5940.458 D Status loading succeeded.
+ 6000.283 D Task "NetJob(Status JSON)" starting for the first time
+ 6000.283 D Downloading  "https://status.mojang.com/check"
+ 6000.783 D Download succeeded: "https://status.mojang.com/check"
+ 6000.783 D Task "NetJob(Status JSON)" succeeded
+ 6000.783 D Finished loading status JSON.
+ 6000.783 D Status loading succeeded.
+ 6060.281 D Task "NetJob(Status JSON)" starting for the first time
+ 6060.281 D Downloading  "https://status.mojang.com/check"
+ 6060.536 D Download succeeded: "https://status.mojang.com/check"
+ 6060.536 D Task "NetJob(Status JSON)" succeeded
+ 6060.536 D Finished loading status JSON.
+ 6060.536 D Status loading succeeded.
+ 6120.292 D Task "NetJob(Status JSON)" starting for the first time
+ 6120.292 D Downloading  "https://status.mojang.com/check"
+ 6120.488 D Download succeeded: "https://status.mojang.com/check"
+ 6120.488 D Task "NetJob(Status JSON)" succeeded
+ 6120.488 D Finished loading status JSON.
+ 6120.488 D Status loading succeeded.
+ 6180.285 D Task "NetJob(Status JSON)" starting for the first time
+ 6180.285 D Downloading  "https://status.mojang.com/check"
+ 6180.513 D Download succeeded: "https://status.mojang.com/check"
+ 6180.513 D Task "NetJob(Status JSON)" succeeded
+ 6180.513 D Finished loading status JSON.
+ 6180.513 D Status loading succeeded.
+ 6240.283 D Task "NetJob(Status JSON)" starting for the first time
+ 6240.283 D Downloading  "https://status.mojang.com/check"
+ 6240.823 D Download succeeded: "https://status.mojang.com/check"
+ 6240.823 D Task "NetJob(Status JSON)" succeeded
+ 6240.823 D Finished loading status JSON.
+ 6240.823 D Status loading succeeded.
+ 6300.282 D Task "NetJob(Status JSON)" starting for the first time
+ 6300.282 D Downloading  "https://status.mojang.com/check"
+ 6300.512 D Download succeeded: "https://status.mojang.com/check"
+ 6300.512 D Task "NetJob(Status JSON)" succeeded
+ 6300.512 D Finished loading status JSON.
+ 6300.512 D Status loading succeeded.
+ 6360.281 D Task "NetJob(Status JSON)" starting for the first time
+ 6360.281 D Downloading  "https://status.mojang.com/check"
+ 6360.585 D Download succeeded: "https://status.mojang.com/check"
+ 6360.585 D Task "NetJob(Status JSON)" succeeded
+ 6360.585 D Finished loading status JSON.
+ 6360.585 D Status loading succeeded.
+ 6420.280 D Task "NetJob(Status JSON)" starting for the first time
+ 6420.280 D Downloading  "https://status.mojang.com/check"
+ 6420.690 D Download succeeded: "https://status.mojang.com/check"
+ 6420.690 D Task "NetJob(Status JSON)" succeeded
+ 6420.690 D Finished loading status JSON.
+ 6420.690 D Status loading succeeded.
+ 6480.283 D Task "NetJob(Status JSON)" starting for the first time
+ 6480.283 D Downloading  "https://status.mojang.com/check"
+ 6480.555 D Download succeeded: "https://status.mojang.com/check"
+ 6480.555 D Task "NetJob(Status JSON)" succeeded
+ 6480.555 D Finished loading status JSON.
+ 6480.555 D Status loading succeeded.
+ 6540.286 D Task "NetJob(Status JSON)" starting for the first time
+ 6540.286 D Downloading  "https://status.mojang.com/check"
+ 6540.516 D Download succeeded: "https://status.mojang.com/check"
+ 6540.516 D Task "NetJob(Status JSON)" succeeded
+ 6540.516 D Finished loading status JSON.
+ 6540.516 D Status loading succeeded.
+ 6600.288 D Task "NetJob(Status JSON)" starting for the first time
+ 6600.288 D Downloading  "https://status.mojang.com/check"
+ 6600.507 D Download succeeded: "https://status.mojang.com/check"
+ 6600.507 D Task "NetJob(Status JSON)" succeeded
+ 6600.507 D Finished loading status JSON.
+ 6600.507 D Status loading succeeded.
+ 6660.286 D Task "NetJob(Status JSON)" starting for the first time
+ 6660.286 D Downloading  "https://status.mojang.com/check"
+ 6660.496 D Download succeeded: "https://status.mojang.com/check"
+ 6660.496 D Task "NetJob(Status JSON)" succeeded
+ 6660.496 D Finished loading status JSON.
+ 6660.496 D Status loading succeeded.
+ 6720.283 D Task "NetJob(Status JSON)" starting for the first time
+ 6720.283 D Downloading  "https://status.mojang.com/check"
+ 6720.490 D Download succeeded: "https://status.mojang.com/check"
+ 6720.491 D Task "NetJob(Status JSON)" succeeded
+ 6720.491 D Finished loading status JSON.
+ 6720.491 D Status loading succeeded.
+ 6780.281 D Task "NetJob(Status JSON)" starting for the first time
+ 6780.281 D Downloading  "https://status.mojang.com/check"
+ 6780.596 D Download succeeded: "https://status.mojang.com/check"
+ 6780.596 D Task "NetJob(Status JSON)" succeeded
+ 6780.596 D Finished loading status JSON.
+ 6780.596 D Status loading succeeded.
+ 6840.284 D Task "NetJob(Status JSON)" starting for the first time
+ 6840.284 D Downloading  "https://status.mojang.com/check"
+ 6840.436 D Download succeeded: "https://status.mojang.com/check"
+ 6840.436 D Task "NetJob(Status JSON)" succeeded
+ 6840.436 D Finished loading status JSON.
+ 6840.437 D Status loading succeeded.
+ 6900.285 D Task "NetJob(Status JSON)" starting for the first time
+ 6900.285 D Downloading  "https://status.mojang.com/check"
+ 6900.501 D Download succeeded: "https://status.mojang.com/check"
+ 6900.501 D Task "NetJob(Status JSON)" succeeded
+ 6900.501 D Finished loading status JSON.
+ 6900.501 D Status loading succeeded.
+ 6960.284 D Task "NetJob(Status JSON)" starting for the first time
+ 6960.284 D Downloading  "https://status.mojang.com/check"
+ 6960.725 D Download succeeded: "https://status.mojang.com/check"
+ 6960.725 D Task "NetJob(Status JSON)" succeeded
+ 6960.725 D Finished loading status JSON.
+ 6960.725 D Status loading succeeded.
+ 7020.287 D Task "NetJob(Status JSON)" starting for the first time
+ 7020.287 D Downloading  "https://status.mojang.com/check"
+ 7020.840 D Download succeeded: "https://status.mojang.com/check"
+ 7020.840 D Task "NetJob(Status JSON)" succeeded
+ 7020.840 D Finished loading status JSON.
+ 7020.840 D Status loading succeeded.
+ 7080.279 D Task "NetJob(Status JSON)" starting for the first time
+ 7080.279 D Downloading  "https://status.mojang.com/check"
+ 7080.476 D Download succeeded: "https://status.mojang.com/check"
+ 7080.476 D Task "NetJob(Status JSON)" succeeded
+ 7080.476 D Finished loading status JSON.
+ 7080.476 D Status loading succeeded.
+ 7140.288 D Task "NetJob(Status JSON)" starting for the first time
+ 7140.288 D Downloading  "https://status.mojang.com/check"
+ 7140.585 D Download succeeded: "https://status.mojang.com/check"
+ 7140.585 D Task "NetJob(Status JSON)" succeeded
+ 7140.585 D Finished loading status JSON.
+ 7140.585 D Status loading succeeded.
+ 7159.819 D Task "LauncherPartLaunch(0x47c7378)" succeeded
+ 7159.831 D Writing account list to "accounts.json"
+ 7159.832 D Building JSON data structure.
+ 7159.832 D Building account array.
+ 7159.832 D Writing account list to file.
+ 7159.837 D Saved account list to "accounts.json"
+ 7159.841 W Account "skullportdragons@yahoo.com" is no longer in use.
+ 7159.880 D Task "LaunchTask(0x7e3e278)" succeeded
+ 7159.881 D Task "LaunchController(0x70a11f8)" succeeded
